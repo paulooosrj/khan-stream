@@ -1,0 +1,60 @@
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <link href="http://vjs.zencdn.net/6.6.0/video-js.css" rel="stylesheet">
+        <link rel="stylesheet" href="/stylesheets/stream.css">
+        <style>
+            *{
+                margin: 0;
+                padding: 0;
+            }
+            .video-js{
+                height: 100vh;
+                width: 100%;
+            }
+        </style>
+    </head>
+    <body>
+
+      <div class="load">
+          <div class="spinner">
+            <div class="double-bounce1"></div>
+            <div class="double-bounce2"></div>
+          </div>
+      </div>
+
+      <video id=example-video width=600 height=300 class="video-js vjs-default-skin" controls>
+            <source class="streamed"
+               src="https://example.com/index.m3u8"
+               type="application/x-mpegURL">
+      </video>
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/6.6.2/video.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.12.2/videojs-contrib-hls.min.js"></script>
+      <script>
+        var [type, url, titulo] = JSON.parse(sessionStorage.getItem('<%- id -%>'));
+        var node = document.querySelector('.load');
+        document.title = titulo;
+        document.querySelector('.streamed').src = decodeURIComponent(url);
+        if(type === "mp4"){
+            document.querySelector('.streamed').setAttribute('type', 'video/mp4');
+        }
+        var player = videojs('example-video');
+        player.play();
+        player.ready(function(){
+            this.on('error', (err) => {
+                node.style.flexDirection = "column";
+                node.innerHTML = `
+                    <p class="err">Ocorreu um erro!!</p><br/><br/>
+                    <a href='../' class='btn'>Voltar</a>
+                `;
+            });
+            this.on('loadedmetadata', function(){ 
+                node.style.display = 'none';
+            })
+        });
+
+      </script>
+
+   </body>
+</html>

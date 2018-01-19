@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Khan Stream</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+  <link rel="stylesheet" href="/stylesheets/style.css">
+</head>
+<body>
+
+  <div class="load">
+      <div class="sk-folding-cube">
+          <div class="sk-cube1 sk-cube"></div>
+          <div class="sk-cube2 sk-cube"></div>
+          <div class="sk-cube4 sk-cube"></div>
+          <div class="sk-cube3 sk-cube"></div>
+        </div>
+  </div>
+
+  <div khan-controller="filmes" style="display:none" class="d-flex align-items-center container-flex flex-column">
+      <input type="text" placeholder="Troque a lista iptv ( Cole o link e de Enter )" onKeyup="{{ '$changeIptv(event)' }}" class="nova-iptv">
+      <div class="d-flex align-items-center container-flex">
+          {{ $filmes.map(f => $makeCard(f)).join(' ') }}
+      </div>
+  </div>
+
+  <script src="javascripts/stream-json.js"></script>
+  <script src="https://cdn.rawgit.com/PaulaoDev/khan-framework/master/vendor/build/khan.min.js"></script>
+  <script>
+    (async () => {
+      
+      const khan = new $khan();
+
+      const get_filmes = async (lista) => {
+        document.querySelector('[khan-controller="filmes"]').setAttribute('style', 'display:flex');
+        document.querySelector('.load').setAttribute('style', 'display:none');
+        return await StreamJson(lista);
+      };
+
+      const is_url = (url) => {
+        var ptn = /(https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|www\.[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9]\.[^\s]{2,}|www\.[a-zA-Z0-9]\.[^\s]{2,})/;
+        return ptn.test(url);
+      };
+
+
+      khan.$controller('filmes', async function(){
+
+        this.iptv_lista = localStorage.getItem('iptv') || 'sources/lista-iptv.txt'; 
+        this.filmes = await get_filmes(this.iptv_lista);
+        
+        window.setVideo = function(e){
+          var session = window.sessionStorage;
+          var stream_id = e.getAttribute('stream-id');
+          var url = e.getAttribute('stream');
+          session.setItem(stream_id, JSON.stringify([
+            url.split('.').pop(),
+            url,
+            e.getAttribute('title')
+          ]));
+          location.href = "./stream/" + stream_id;
+        };
+
+        this.makeCard = function(data){
+          return `
+            <div class="card" style="width: 20rem;">
+              <img class="card-img-top" src="${data.icon || 'https://www.shareicon.net/download/2015/08/15/85811_tv_512x512.png'}" alt="Card image cap">
+              <div class="card-block">
+                <h4 class="card-title">${ data.title || "Nao possui titulo." }</h4>
+                <p class="card-text">${ data.desc }</p>
+                <button stream="${ data.url }" title="${data.title}" stream-id="${btoa(data.title)}" class="btn btn-primary" onClick="setVideo(this)">Assistir</button>
+              </div>
+            </div>
+          `;
+        }.bind(this);
+
+        this.changeIptv = async function(event){
+            if(event.keyCode === 13){
+              var node = document.querySelector('.nova-iptv');
+              if(is_url(node.value)){
+                localStorage.setItem('iptv', node.value);
+                this.filmes = await get_filmes(node.value);
+              }
+            }
+        }.bind(this);
+
+        this.render();
+
+      }); 
+
+    })();
+  </script>
+</body>
+</html>

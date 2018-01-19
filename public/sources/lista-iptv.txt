@@ -1,0 +1,3295 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="http://goo.gl/vrZ3mg"
+
+#EXTM3U
+
+
+
+
+#EXTINF:-1 tvg-logo= group-title="CANAIS ABERTOS",[COLOR orange](CANAIS ABERTOS)[/COLOR]
+http://
+
+
+#EXTINF:-1,GLOBO SP skjdhas
+http://95.141.35.86:8081/look/sptvl/playlist.m3u8
+
+#EXTINF:-1,GLOBO RJ (EM MANUNTECAO)
+
+#EXTINF:-1,REDE TV RJ    
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+ 
+#EXTINF:-1,REDE TV 
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1,REDE TV PR
+http://video01.viaflux.com:1935/live/mp4:tvsudoeste_source/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1,SBT
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8
+
+#EXTINF:-1,SBT SP 
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/playlist.m3u8
+
+#EXTINF:-1,SBT PB
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8
+
+#EXTINF:-1,SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1,SBT SC
+http://srv6.zoeweb.tv9EM:1935/z343-live/stream/livestream.m3u8
+
+#EXTINF:-1,RECORD
+http://calertahls-lh.akamaihd.net/i/calertahls_1@167570/index_480_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,RECORD RJ (EM MANUTENCAO)
+
+
+#EXTINF:-1,RECORD PB(EM MANUNTENCAO)
+
+
+#EXTINF:-1,TV VITORIA RECORD ES 
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+ 
+#EXTINF:-1,BAND 
+http://starbr.digitalgroup.me:15000/live/25025/25025/1713.m3u8
+
+#EXTINF:-1,BAND PARA (EM MANUTENCAO)
+
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png",BAND VIA MORENA 
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+ 
+#EXTINF:-1,REDE MINAS
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1,TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
+
+#EXTINF:-1,TV CULTURA MG
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+ 
+#EXTINF:-1,TV GAZETA
+http://172.93.110.130:1935/tvalternativa/tvalternativa/playlist.m3u8
+
+#EXTINF:-1,TV ESCOLA
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+
+#EXTINF:-1,REDE MEIO DO NORTE
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+
+#EXTINF:-1,REDE BRASIL
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/LcpPNw",PUC TV (EM MANUNTECAO)
+
+
+ 
+
+
+
+
+
+#EXTINF:-1 tvg-logo= group-title="ESPORTE",[COLOR orange](ESPORTE)[/COLOR]
+http://
+
+
+#EXTINF:-1,PREMIERE CLUB
+http://95.211.149.215:8081/look/pfcc/playlist.m3u8
+
+#EXTINF:-1,BAND SPORTS 
+http://evc-servers.uol.com.br:1935/geobband/operadora/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv.png",SPORTV
+http://95.141.35.86:8081/look/sportvr/playlist.m3u8
+
+#EXTINF:-1,ESPN (EM MANUNTECAO)
+
+
+#EXTINF:-1,ESPN BRASIL
+http://95.141.35.193:8081/look/espnbrs/playlist.m3u8
+
+#EXTINF:-1,ESPORTE INTERATIVO
+https://mdstrm1-a.akamaihd.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_800.m3u8?dnt=true&es=mdstrm1-a.akamaihd.net&proto=https#ffmpeg
+
+#EXTINF:-1,EI MAXX (EM MANUNTECAO)
+
+
+#EXTINF:-1,EI MAXX 2 (EM MANUNTECAO)
+
+
+#EXTINF:-1,FOX SPORTS
+http://95.141.35.193:8081/look/espnbrs/playlist.m3u8
+ 
+#EXTINF:-1,FOX SPORTS 2 (EM MANUNTECAO)
+
+ 
+#EXTINF:-1,COMBATE 
+http://95.141.32.213:8081/look/combatel/playlist.m3u8
+
+#EXTINF:-1,ALL SPORTS TV 
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+
+
+
+
+
+ 
+#EXTINF:-1 tvg-logo= group-title="INFANTIL",[COLOR orange](INFANTIL)[/COLOR]
+http://
+
+
+#EXTINF:-1,DISNEY XD 
+http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/chunklist_w1378600076.m3u8
+
+#EXTINF:-1,NICK JR
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/chunklist_w1116862459.m3u8
+
+#EXTINF:-1,RETRO CARTOON
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
+ 
+#EXTINF:-1,CARTOON NETWORK (MANUNTENCAO)
+
+ 
+#EXTINF:-1,ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+
+#EXTINF:-1,DISCOVERY KIDS (MANUNTENCAO)
+
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/gloob.png",GLOOB 
+http://95.141.32.136:8081/look/gloob/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/7Y4hBP" group-title=",GLOOB (EM MANUTENÇÃO)
+
+
+
+
+
+
+
+ 
+#EXTINF:-1 tvg-logo= group-title="FILMES E SERIE",[COLOR orange](FILMES E SERIES)[/COLOR]
+http://
+
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hbofamily.png", HBO FAMILY HD
+http://starbr.digitalgroup.me:15000/live/Adri040717/040720/1016.m3u8
+
+#EXTINF:-1,SYFY (EM MANUNTECAO)
+
+
+#EXTINF:-1,MEGAPIX (EM MANUNTECAO)
+
+
+#EXTINF:-1,FOX
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8
+ 
+#EXTINF:-1,UNIVERSAL CHANNEL (EM MANUNTECAO)
+
+ 
+#EXTINF:-1,TNT (EM MANUNTECAO)
+
+
+#EXTINF:-1,TTELECINE ACTION
+http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_f1tv_b1096000.m3u8
+
+#EXTINF:-1,TELECINE TOUCH
+http://starbr.digitalgroup.me:15000/live/Adri040717/040720/926.m3u8
+
+#EXTINF:-1,TV NA ILHA
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+
+#EXTINF:-1,HISTORY 
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+
+#EXTINF:-1,AXN (EM MANUNTECAO)
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/OngVqc",HBO 2 (EM MANUTENÇÃO)
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo= group-title="VARIEDADES",[COLOR orange](VARIEDADES)[/COLOR]
+http://
+
+
+
+#EXTINF:-1,DISCOVERY CHANNEL (EM MANUNTECAO)
+
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/discoveryturbob.png",DISCOVERY TURBO
+http://starbr.digitalgroup.me:15000/live/Adri040717/040720/2411.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/animalplanet.png",ANIMAL PLANET
+http://starbr.digitalgroup.me:15000/live/Adri040717/040720/1117.m3u8
+
+#EXTINF:-1,MULITSHOW
+http://95.141.32.213:8081/look/eimaxs/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1,MIX TV
+http://stmv1.euroti.com.br:1935/mixtv/mixtv/live.m3u8
+ 
+#EXTINF:-1,HIT TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+ 
+#EXTINF:-1,HOT MUSIC
+http://wow01.105.net/live/rmc1/playlist.m3u8
+
+#EXTINF:-1,FISH PLUS (EM MANUNTECAO)
+
+
+#EXTINF:-1.GLOBO NEWS 
+http://tv.ec.cx:1935/redecanais-stream-globo/myStream/playlist.m3u8
+
+#EXTINF:-1,RECORD NEWS
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+#EXTINF:-1,BH NEWS
+http://edgenew.z1on.com:1935/1700/3125/3125-hotmedia.sdp/live.m3u8
+
+#EXTINF:-1,BAND NEWS (EM MANUTENÇÃO)
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo= group-title="RELIGIOSO",[COLOR orange](RELIGIOSO)[/COLOR]
+http://
+
+
+
+#EXTINF:-1,TV EVANGELIZAR 
+rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
+
+#EXTINF:-1,TV APARECIDA
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+
+#EXTINF:-1,CANÇÃO NOVA (EM MANUNTECAO)
+
+
+#EXTINF:-1 tvg-logo="tvg-logo="http://s20.postimg.org/s88or4re5/tvcinec.png",TV CINEC 
+http://104.156.60.74:1935/tvcinec/tvcinec/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s14.postimg.org/k9exx981d/Rede_S_culo_21.png",REDE SECULO 21 
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/wJnpc56UYN/SxZIwjQckIaSaQaX.png",TV NOVO TEMPO 
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w128671060_b256000_slpor.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo= group-title="INTERNACIONAIS",[COLOR orange](INTERNACIONAIS)[/COLOR]
+http://
+
+
+
+#EXTINF:-1,SPORT
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1,SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1,REAL MADRI TV (EM MANUNTECAO)
+
+
+#EXTINF:-1,TELPI 2
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+
+#EXTINF:-1,SkY SPORTS
+http://event_rtmp-lh.akamaihd.net/i/ssnhd_1@433299//index_3400_av-p.m3u8
+
+#EXTINF:-1,OLYMPIC CHANNEL
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_4_1464000.m3u8
+
+#EXTINF:1,NOVA CINEMA
+http://174.36.220.217:5000/live/120/120.m3u8
+
+#EXTINF:-1,3 ABN
+http://moiptvus-lh.akamaihd.net:80/i/3abnlive_1@328342/index_800_av-p.m3u8
+
+#EXTINF:-1,3 ABN KIDS
+http://moiptvus-lh.akamaihd.net:80/i/kidslive_1@328343/index_800_av-p.m3u8
+
+#EXTINF:-1,DW
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1,FOX NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+
+#EXTINF:-1,FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo= group-title="FILME",[COLOR orange](FILME)[/COLOR]
+http://
+
+#EXTINF:-1,VELOSES E FURIOSOS 8 (2017)
+http://ca.netcine.tv/ntcdnbucket/filmes2017/VELO2017-ALTO.mp4
+
+#EXTINF:-1,O CHAMADO 3 (2017)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OCHMD3.mp4
+
+#EXTINF:-1,ANJOS DA NOITE: GUERRA DE SANGUE (2017)
+http://comofazer.club/embed/ANJOSDANOITE2017.mp4
+
+#EXTINF:-1,APRISIONADOS (2017)
+http://comofazer.club/embed/Aprisionados.2017.720p.BluRay.x264.DUAL.mp4
+
+#EXTINF:-1,LOGAN (2017)
+http://ca.netcine.tv/ntcdnbucket/filmes2017/L0G4NDUB2017-BAIXO.mp4
+
+#EXTINF:-1,OS PENETRA 2 (2017)
+http://comofazer.club/embed/OSPENETRAS2.mp4
+
+#EXTINF:-1,A BELA E A FERA (2017)
+http://comofazer.club/embed/A.Bela.e.a.Fera.2017.1080p.BluRay.x264.DUBLADO.mp4
+
+#EXTINF:-1,MULHER MARAVILHA (2017)
+http://comofazer.club/embed/MULHERMARAVILHADUBLADOHDTC.mp4
+
+#EXTINF:-1,A MUMIA (2017)
+http://comofazer.club/embed/A%20Múmia.2017.HD-TS.XViD.Dual.Audio-RLS.mp4
+
+#EXTINF:-1,CAÇA FANTASMA (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/CACFNTSM2016.mp4
+
+#EXTINF:-1,BATMAN VS SUPERMAN: A ORIGEM DA JUSTIÇA (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/BTMNVSPRMNAODJT.mp4
+
+#EXTINF:-1,X-MEN: APOCALIPSE (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/XMENAPCLPSE.mp4
+
+#EXTINF:-1, MUMIA: A RESUREICAO (2014)
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/MUMARSRCAO.mp4
+
+#EXTINF:-1,OS SMURFS 3: E A VILA PERDIDA (2017)
+http://comofazer.club/embed/Os.Smurfs.e.a.Vila.Perdida.2017.720p.WEB-DL.x264.DUAL.mp4
+
+#EXTINF:-1,RESIDENT EVIL6: O CAPITULO FINAL (2017)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/REVIL06.mp4
+
+#EXTINF:-1,KONG A ILHA DA CAVEIRA (2017)
+http://zeus.netcine.tv/ondemand/filmes2017/CAVEIRA2017DUB-ALTO.mp4
+
+
+
+
+
+#EXTINF:-1 tvg-logo= group-title="CAMERA AO VIVO",[COLOR orange](CAMERA AO VIVO)[/COLOR]
+http://
+
+
+#EXTINF:-1,RJ - COPACABANA
+http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
+
+#EXTINF:-1,UBATUBA - PRAIA ENSEABA
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_204.stream/playlist.m3u8
+
+#EXTINF:-1,RECIFE - BOA VIAGEM
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_595.stream/playlist.m3u8
+
+#EXTINF:-1,ARENA ALLIANZ PARQUE - PALESTRA ITALIA
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_1093.stream/playlist.m3u8
+
+#EXTINF:-1,SC - AVENIDA ATLANTICA EM SAO FRANCISCO DO SUL
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_1036.stream/playlist.m3u8
+
+#EXTINF:-1,RUA SANTA EFIGENIA
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_482.stream/playlist.m3u8
+
+#EXTINF:-1,AV INTERLAGOS - SHOPPING INTERLAGOS
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_801.stream/playlist.m3u8
+
+#EXTINF:-1,GUARUJA - PRAIA DA ENSEABA
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_151.stream/playlist.m3u8
+
+#EXTINF:-1,UBATUBA - PRAIA DO SAPE
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_1242.stream/playlist.m3u8
+
+#EXTINF:-1,ANDRADAS MG - PICO DO GAVIAO
+rtmp://streaming55.sitehosting.com.br/picodogaviao//camera.stream
+
+#EXTINF:-1 tvg-id="Space.igor"  tvg-logo="http://goo.gl/GY0nyM" group-title="Filmes",SPACE [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str01.ddns.net/029/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Megapix.igor" tvg-logo="http://goo.gl/qXR9CS" group-title="Filmes",MEGAPIX [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str02.ddns.net/033/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PARAMOUNT.igor" tvg-logo="https://goo.gl/iwCiPM" group-title="Filmes",PARAMOUNT CHANNEL [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/068/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT.igor" tvg-logo="http://goo.gl/vUl6oy" group-title="Filmes",TNT [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str01.ddns.net/023/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TCM.igor"  tvg-logo="http://goo.gl/W89NH3" group-title="Filmes",TCM [COLOR blue][B]SD[/B][/COLOR][COLOR blue] SERVIDOR:2[/COLOR]
+http://str02.ddns.net/039/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MAX UP.igor" tvg-logo="http://goo.gl/Hbr506" group-title="Filmes",MAX UP [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str02.ddns.net/045/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MAX PRIME.igor" tvg-logo="http://goo.gl/JG4dUv" group-title="Filmes",MAX PRIME [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/092/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Studio Universal.igor" tvg-logo="http://goo.gl/T8ICde" group-title="Filmes",STUDIO [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/096/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal Brasil.igor" tvg-logo="http://goo.gl/zddqpQ" group-title="Filmes",CANAL BRASIL [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://165.227.181.85/canalbrasil/playlist.ts
+
+
+###################################################################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 tvg-id="ttwrs" tvg-logo="http://goo.gl/vrZ3mg" group-title="Seriados",[COLOR yellow]            > > > SERIADOS < < <[/COLOR]
+http://0.0.0.0:1234
+
+
+
+#EXTINF:-1 tvg-id="TNT SERIES.igor" tvg-logo="https://goo.gl/2ZBWuk" group-title="Seriados",TNT SERIES [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str01.ddns.net/019/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox.igor" tvg-logo="http://goo.gl/13gfQq" group-title="Seriados",FOX [COLOR gray] RedeCanais[/COLOR]
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Fox.igor" tvg-logo="http://goo.gl/13gfQq" group-title="Seriados",FOX [COLOR gray] Vertv.net[/COLOR]
+http://217.23.2.169:8081/look/foxhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FX.igor" tvg-logo="http://goo.gl/RnqXjY" group-title="Seriados",FX [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://67.21.76.99:8080/TV1307?AuthInfo=4ec9415662a45b93fe638f1fc6e50ecb7e43fa4ee2b44004e92d07071630bf0be3c74dfc4625c25c858aff331442474d697c1d8dd87fbb6aabf426a2fa2e36cc25894e6c09372d5d0fd0053f1ce50a0c
+
+#EXTINF:-1 tvg-id="TBS.igor" tvg-logo="http://goo.gl/6Y4LUI" group-title="Seriados",TBS [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str02.ddns.net/038/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Universal.igor" tvg-logo="http://goo.gl/K8V00r" group-title="Seriados",UNIVERSAL CHANNEL [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/096/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Warner.igor" tvg-logo="http://goo.gl/u2Eh6h" group-title="Seriados",WARNER [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/080/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central.igor" tvg-logo="http://goo.gl/7GDv0O" group-title="Seriados",COMEDY CENTRAL [COLOR blue][B]SD[/B][/COLOR][COLOR blue] SERVIDOR:2[/COLOR]
+http://listaiptv.servidorfull.com:8080/SD_COMEDY_CENTRAL/video.m3u8?token=bb19f93a0574f14dce538c2b4c43883e&formigatv
+
+#EXTINF:0 tvg-id="c" group-title="Seriados" tvg-logo="https://goo.gl/STGSLK",FOX LIFE [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/083/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-id="SyFy.igor" group-title="Seriados" tvg-logo="http://goo.gl/VDyslJ",SYFY [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/093/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sony.igor" tvg-logo="http://goo.gl/omksVK" group-title="Seriados",SONY [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://67.21.76.99:8080/TV1279?AuthInfo=4ec9415662a45b93fe638f1fc6e50ecb7e43fa4ee2b44004e92d07071630bf0be3c74dfc4625c25c858aff331442474d697c1d8dd87fbb6aabf426a2fa2e36cc25894e6c09372d5d0fd0053f1ce50a0c
+
+#EXTINF:-1 tvg-id="AXN.igor" tvg-logo="http://goo.gl/U4atFv" group-title="Seriados",AXN [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str01.ddns.net/016/myStream/playlist.m3u8
+
+
+
+
+
+
+
+###################################################################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg" group-title="Variedades",[COLOR yellow]            > > > VARIEDADES< < <[/COLOR]
+http://62.210.83.154:8081/twd/twd/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Multishow.igor"  tvg-logo="http://goo.gl/7LIjII" group-title="Variedades",MULTISHOW [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str01.ddns.net/009/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTV.igor"  tvg-logo="http://goo.gl/XQfSPS" group-title="Variedades",MTV [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str01.ddns.net/008/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MIX TV.igor"  tvg-logo="http://goo.gl/9XI6AQ" group-title="Variedades",MIX TV [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://stmv1.euroti.com.br:1935/mixtv/mixtv/live.m3u8
+
+#EXTINF:-1 tvg-id="GNT.igor"  tvg-logo="http://goo.gl/YyHiwq" group-title="Variedades",GNT [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/084/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Viva.igor"  tvg-logo="http://goo.gl/TWuTpO" group-title="Variedades",VIVA [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/079/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BIS.igor"  tvg-logo="https://goo.gl/09Wgmh" group-title="Variedades",BIS [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://67.21.76.99:8080/TV1275?AuthInfo=4ec9415662a45b93fe638f1fc6e50ecb7e43fa4ee2b44004e92d07071630bf0be3c74dfc4625c25c858aff331442474d697c1d8dd87fbb6aabf426a2fa2e36cc25894e6c09372d5d0fd0053f1ce50a0c
+
+#EXTINF:-1 tvg-id="FishTV.igor"  tvg-logo="http://goo.gl/Lcrqe6" group-title="Variedades",FISH TV [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://listaiptv.servidorfull.com:8080/SD_FISH_TV/video.m3u8?token=bb19f93a0574f14dce538c2b4c43883e&formigatv
+
+#EXTINF:-1 tvg-id="OFF.igor"  tvg-logo="https://goo.gl/B5pwdb" group-title="Variedades",OFF [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://listaiptv.servidorfull.com:8080/SD_OFF/video.m3u8?token=bb19f93a0574f14dce538c2b4c43883e&formigatv
+
+#EXTINF:-1 tvg-id="Discovery Home.igor"  tvg-logo="http://goo.gl/ewCTK1" group-title="Variedades",HOME & HEALTH [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/078/myStream/playlist.m3u8
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg" group-title="Infantil",[COLOR yellow]            > > > INFANTIL < < <[/COLOR]
+http://self-iptv.sytes.net:8000/live/e-mail/self-iptv@hotmail.com/24.ts
+
+
+
+#EXTINF:-1 tvg-id="Cartoon Network.igor" tvg-logo="http://goo.gl/oF6osu" group-title="Infantil",CARTOON NETWORK [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str01.ddns.net/027/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nick.igor" tvg-logo="http://goo.gl/welGCW" group-title="Infantil",NICK [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/077/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Disney XD.igor" tvg-logo="http://goo.gl/aWbwb4" group-title="Infantil",DISNEY XD [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/086/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel.igor" tvg-logo="http://goo.gl/aWbwb4" group-title="Infantil",DISNEY XD [COLOR gray] RedeCanais[/COLOR]
+http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel.igor" tvg-logo="http://goo.gl/aHrprS" group-title="Infantil",DISNEY CHANNEL [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://67.21.76.99:8080/TV3144?AuthInfo=4ec9415662a45b93fe638f1fc6e50ecb7e43fa4ee2b44004e92d07071630bf0be3c74dfc4625c25c858aff331442474d697c1d8dd87fbb6aabf426a2fa2e36cc25894e6c09372d5d0fd0053f1ce50a0c
+
+#EXTINF:-1 tvg-id="Disney Channel.igor" tvg-logo="http://goo.gl/aHrprS" group-title="Infantil",DISNEY CHANNEL [COLOR gray] RedeCanais[/COLOR]
+http://tv.ec.cx:1935/redecanais-stream-disney/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Disney Jr.igor" tvg-logo="http://goo.gl/HYutK0" group-title="Infantil",DISNEY JR [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://67.21.76.99:8080/TV1293?AuthInfo=4ec9415662a45b93fe638f1fc6e50ecb7e43fa4ee2b44004e92d07071630bf0be3c74dfc4625c25c858aff331442474d697c1d8dd87fbb6aabf426a2fa2e36cc25894e6c09372d5d0fd0053f1ce50a0c
+
+#EXTINF:-1 tvg-id="Discovery Kids.igor" tvg-logo="http://goo.gl/eVuVEw" group-title="Infantil",DISCOVERY KIDS [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str02.ddns.net/061/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gloob.igor" tvg-logo="Gloob.png" tvg-logo="http://goo.gl/aghxnu" group-title="Infantil",GLOOB [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/089/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nick Jr.igor" tvg-logo="http://goo.gl/gZkEi0" group-title="Infantil",NICK JR [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str02.ddns.net/064/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Bloomberg.igor" tvg-logo="http://goo.gl/AeWH2A" group-title="Infantil",BOOMERANG [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://67.21.76.99:8080/TV3142?AuthInfo=4ec9415662a45b93fe638f1fc6e50ecb7e43fa4ee2b44004e92d07071630bf0be3c74dfc4625c25c858aff331442474d697c1d8dd87fbb6aabf426a2fa2e36cc25894e6c09372d5d0fd0053f1ce50a0c
+
+#EXTINF:-1 tvg-id="Tooncast.igor" tvg-logo="http://goo.gl/9ytu52" group-title="Infantil",TOONCAST [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://67.21.76.99:8080/TV1385?AuthInfo=4ec9415662a45b93fe638f1fc6e50ecb7e43fa4ee2b44004e92d07071630bf0be3c74dfc4625c25c858aff331442474d697c1d8dd87fbb6aabf426a2fa2e36cc25894e6c09372d5d0fd0053f1ce50a0c
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg" group-title="Documentários",[COLOR yellow]> > > DOCUMENTÁRIOS < < <[/COLOR]
+rtmp://r.livecast.cc/rl/ playpath=flash08sd swfUrl=http://livecast.cc/live/player.swf?IGOR_RANGEL live=1 pageUrl=http://livecast.cc/live/stream12.php
+
+
+
+
+
+#EXTINF:-1 tvg-id="Animal Planet.igor"" tvg-logo="http://goo.gl/yXfk9Y"  group-title="Documentários",ANIMAL PLANET [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str04.ddns.net/100/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.igor" tvg-logo="http://goo.gl/5ObfPV"  group-title="Documentários",DISCOVERY CHANNEL [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/066/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nat Geo Wild.igor" tvg-logo="http://goo.gl/t0czad"  group-title="Documentários",NAT GEO WILD [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/082/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="The History.igor" tvg-logo="http://goo.gl/5rr2ab" group-title="Documentários",THE HISTORY CHANNEL [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str03.ddns.net/069/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="National Geo.igor" tvg-logo="http://goo.gl/INXrU0" group-title="Documentários",NAT GEO [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str04.ddns.net/110/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Turbo.igor" tvg-logo="http://goo.gl/B8yVJo"  group-title="Documentários",DISCOVERY TURBO [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str04.ddns.net/102/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-id="TLC.igor" group-title="Documentários" tvg-logo="https://goo.gl/46JvTg",TLC [COLOR yellow][B]HD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://67.21.76.99:8080/TV3131?AuthInfo=4ec9415662a45b93fe638f1fc6e50ecb7e43fa4ee2b44004e92d07071630bf0be3c74dfc4625c25c858aff331442474d697c1d8dd87fbb6aabf426a2fa2e36cc25894e6c09372d5d0fd0053f1ce50a0c
+
+#EXTINF:-1 tvg-id="Discovery Civilization.igor" tvg-logo="http://goo.gl/vZm1PM"  group-title="Documentários",DISCOVERY CIVILIZATION [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://192.99.148.73:8080/live/play/play/50.ts
+
+#EXTINF:-1 tvg-id="Liv.ttwrs" tvg-logo="http://goo.gl/N5R6l8"  group-title="Documentários",DISCOVERY ID [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://str02.ddns.net/056/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Theater.igor" tvg-logo="http://goo.gl/PQFZHJ"  group-title="Documentários",Discovery HD THEATER [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://listaiptv.servidorfull.com:8080/HD_DISCOVERY_THEATER/video.m3u8?token=bb19f93a0574f14dce538c2b4c43883e&formigatv
+
+
+
+
+
+###################################################################################################################################################################################
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg" group-title="JORNALISMO",[COLOR yellow]            > > > JORNALISMO < < <[/COLOR]
+http://0.0.0.0:123455
+
+#EXTINF:-1 tvg-id="Globo News.igor" tvg-logo="Globo_News.png" tvg-logo="http://goo.gl/QCdPkl" group-title="JORNALISMO",GLOBO NEWS
+rtmp://r.livecast.cc/rl/ playpath=ch27 swfurl=http://livecast.cc/live/player.swf?IGOR_RANGEL live=1 pageUrl=http://livecast.cc/live/  token=y.t.e.q.e.e.e.t.j.d.a.v
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="bhnewstv.png" tvg-logo="http://goo.gl/Y8kxOV" group-title="JORNALISMO",BH NEWS
+http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_w125301522.m3u8
+
+#EXTINF:-1 tvg-id="Record News.igor" tvg-logo="Record-News.png" tvg-logo="http://goo.gl/dA26st" group-title="JORNALISMO",RECOR NEWS
+rtmp://a1.fabricahost.com.br:1935/redemercosul/redemercosul.flv
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg" group-title="SERIES 24HRS",[COLOR yellow]> > > SERIES 24HRS < < <[/COLOR]
+rtmp://208.53.180.242/ctv playpath=filmes  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/filmes.php
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="big-bang.png" tvg-logo="http://goo.gl/CM3jns" group-title="SERIES 24HRS",BIG BAMG
+rtmp://208.53.164.194/live/ playpath=big swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="breaking-bad.png" tvg-logo="http://goo.gl/TH6lNu" group-title="SERIES 24HRS",BREAKING BAD
+rtmp://208.53.164.194/live/ playpath=breaking swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="CHUCK.png" tvg-logo="http://goo.gl/MrqeZY" group-title="SERIES 24HRS",CHUCK
+rtmp://208.53.164.194/live/ playpath=chuck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="CRIMINAL-MINDS.png" tvg-logo="http://goo.gl/vsxDUU" group-title="SERIES 24HRS",CRIMINAL MINDS
+rtmp://208.53.164.194/live/ playpath=criminal swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="CSI.png" tvg-logo="http://goo.gl/5XT0Wg" group-title="SERIES 24HRS",CSI
+rtmp://208.53.164.194/live/ playpath=csi swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Friends.png" tvg-logo="http://goo.gl/fnk2qZ" group-title="SERIES 24HRS",FRIENDS
+rtmp://208.53.164.194/live/ playpath=friends swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Todo-Mundo-Odeia-o-Chris.png" tvg-logo="http://goo.gl/5W6ClY" group-title="SERIES 24HRS",TD MUNDO ODEIA O CRIS
+rtmp://208.53.164.194/live/ playpath=cris swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Glee.png" tvg-logo="http://goo.gl/OcR6dy" group-title="SERIES 24HRS",GLEE
+rtmp://208.53.164.194/live/ playpath=glee swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Gossip-Girl.png" tvg-logo="http://goo.gl/d94oJv" group-title="SERIES 24HRS",GOSSIP GIRL
+rtmp://208.53.164.194/live/ playpath=gossip swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="HEROES.png" tvg-logo="http://goo.gl/eYHSMH" group-title="SERIES 24HRS",HEROS
+rtmp://208.53.164.194/live/ playpath=heroes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Lost.png" tvg-logo="http://goo.gl/D4g3lg" group-title="SERIES 24HRS",LOST
+rtmp://208.53.164.194/live/ playpath=lost swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="SERIES 24HRS",PRISON BREAK
+rtmp://208.53.164.194/live/ playpath=prison swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="SMALLVILLE.png" tvg-logo="http://goo.gl/hjqlZN" group-title="SERIES 24HRS",SMALLVILLE
+rtmp://208.53.164.194/live/ playpath=small swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Supernatural.png" tvg-logo="http://goo.gl/k3cV1f" group-title="SERIES 24HRS",SOBRENATURAL 
+rtmp://208.53.164.194/live/ playpath=supernatural swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Dois-Homens-e-Meio.png" tvg-logo="http://goo.gl/Xa6ZY1" group-title="SERIES 24HRS",TWO AND A HALF MEN
+rtmp://208.53.164.194/live/ playpath=two swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg" group-title="DESENHOS 24HRS",[COLOR yellow]> > > DESENHOS 24HRS < < <[/COLOR]
+rtmp://208.53.180.242/ctv playpath=filmes  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.aovivobrasil.com/tvamigos2/filmes.php
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Batman.png" tvg-logo="http://goo.gl/WS4iYd" group-title="DESENHOS 24HRS",BATMAN
+rtmp://208.53.164.194/live/ playpath=batman  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Ben-10.png" tvg-logo="http://goo.gl/C5i8P8" group-title="DESENHOS 24HRS",BEM 10
+rtmp://208.53.164.194/live/ playpath=ben10 swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Bob-Esponja.png" tvg-logo="http://goo.gl/buWyMn" group-title="DESENHOS 24HRS",BOB ESPONJA 
+rtmp://208.53.164.194/live/ playpath=bob swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Caverna-do-Dragao.png" tvg-logo="http://goo.gl/9BFXFE" group-title="DESENHOS 24HRS",CAVERNA DO DRAGAO
+rtmp://208.53.164.194/live/ playpath=caverna swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Os-Cavaleiros-do-Zodiaco.png" tvg-logo="http://goo.gl/bzqfvF" group-title="DESENHOS 24HRS",OS CAVALEIROS DO ZODIACO
+rtmp://208.53.164.194/live/ playpath=cdz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Uma-Familia-da-Pesada.png" tvg-logo="http://goo.gl/cDLJaO" group-title="DESENHOS 24HRS",UMA FAMILIA DA PESADA
+rtmp://208.53.164.194/live/ playpath=family swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Chaves.png" tvg-logo="http://goo.gl/LNwXaV" group-title="DESENHOS 24HRS",CHAVES
+rtmp://208.53.164.194/live/ playpath=chaves swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="CHAPOLIN.jpg" tvg-logo="http://goo.gl/UhQF0x" group-title="DESENHOS 24HRS",CHAPOLIN
+rtmp://208.53.164.194/live/ playpath=chapolin swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Os-Simpsons.png" tvg-logo="http://goo.gl/q2Y3bG" group-title="DESENHOS 24HRS",SIMPSONS
+rtmp://208.53.164.194/live/ playpath=simpsons swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Dragon-Ball-Z.png" tvg-logo="http://goo.gl/TVjjbc" group-title="DESENHOS 24HRS",DRAGON BALL Z
+rtmp://208.53.164.194/live/ playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Doug.png" tvg-logo="http://goo.gl/NaH8ck" group-title="DESENHOS 24HRS",DOUG
+rtmp://208.53.164.194/live/ playpath=doug swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Drake-Josh.png" tvg-logo="http://goo.gl/KOtlWl" group-title="DESENHOS 24HRS",DRAKE E JOSH
+rtmp://208.53.164.194/live/ playpath=drake swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Futurama.png" tvg-logo="http://goo.gl/VeCxGn" group-title="DESENHOS 24HRS",FUTURAMA
+rtmp://208.53.164.194/live/ playpath=futurama swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Galinha-Pintadinha.png" tvg-logo="http://goo.gl/W2jeOX" group-title="DESENHOS 24HRS",GALINHA PINTADINHA 
+rtmp://208.53.164.194/live/ playpath=galinha swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="iCarly.png" tvg-logo="http://goo.gl/kQWCwf" group-title="DESENHOS 24HRS",ICARLY
+rtmp://208.53.164.194/live/ playpath=icarly swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Jackie.jpg" tvg-logo="http://goo.gl/BH4eWQ" group-title="DESENHOS 24HRS",JACKIE CHAN
+rtmp://208.53.164.194/live/ playpath=jackie swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Kenan-Kel.png" tvg-logo="http://goo.gl/MBtpif" group-title="DESENHOS 24HRS",KENAN E KEL
+rtmp://208.53.164.194/live/ playpath=kenan swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Jaspion.jpg" tvg-logo="http://goo.gl/DXq4DN" group-title="DESENHOS 24HRS",JASPION
+rtmp://208.53.164.194/live/ playpath=jaspion swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Um-Maluco-no-Pedaco.png" tvg-logo="http://goo.gl/7UCy8x" group-title="DESENHOS 24HRS",MALUCO NO PEDAÇO
+rtmp://208.53.164.194/live/ playpath=maluconopedaco swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="maskara.jpg" tvg-logo="http://goo.gl/RWeQFt" group-title="DESENHOS 24HRS",MASKARA
+rtmp://208.53.164.194/live/ playpath=maskara swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Naruto.png" tvg-logo="http://goo.gl/FmLOFI" group-title="DESENHOS 24HRS",NARUTO
+rtmp://208.53.164.194/live/ playpath=naruto swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Os-Padrinhos-Magicos.png" tvg-logo="http://goo.gl/u9tS0n" group-title="DESENHOS 24HRS",PADRINHOS MAGICOS
+rtmp://208.53.164.194/live/ playpath=padrinhos swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Eu-a-Patroa-e-as-Criancas.png" tvg-logo="http://goo.gl/kuekyx" group-title="DESENHOS 24HRS",EU A PATROA E AS CRIANÇAS 
+rtmp://208.53.164.194/live/ playpath=patroa swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Pica-Pau.png" tvg-logo="http://goo.gl/l56Ajm" group-title="DESENHOS 24HRS",PICA PAU 
+rtmp://208.53.164.194/live/ playpath=picapau swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Os-Pinguins.png" tvg-logo="http://goo.gl/ZrdLnc" group-title="DESENHOS 24HRS",OS PINGUINS DE MADAGASTAR 
+rtmp://208.53.164.194/live/ playpath=pinguins swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Scooby-Doo.png" tvg-logo="http://goo.gl/6mCK9N" group-title="DESENHOS 24HRS",SCOOBYDOO
+rtmp://208.53.164.194/live/ playpath=scooby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="South-Park.png" tvg-logo="http://goo.gl/KHycl8" group-title="DESENHOS 24HRS",SOUTH PARK
+rtmp://208.53.164.194/live/ playpath=southpark swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Tom-e-Jerry.png" tvg-logo="http://goo.gl/sKa1xX" group-title="DESENHOS 24HRS",TOM E JERRY
+rtmp://208.53.164.194/live/ playpath=TOM swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="X-Men.png" tvg-logo="http://goo.gl/1dsz17" group-title="DESENHOS 24HRS",X MEN
+rtmp://208.53.164.194/live/ playpath=xmen swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Yu-Gi-Oh-.png" tvg-logo="http://goo.gl/wDkCnt" group-title="DESENHOS 24HRS",Yu-Gi-Oh !
+rtmp://208.53.164.194/live/ playpath=yugioh swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Bobby.jpg" tvg-logo="http://goo.gl/XGqDNn" group-title="DESENHOS 24HRS",O FANTASTICO MUNDO DE BOBBY
+rtmp://208.53.164.194/live/ playpath=bobby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Dinousaro.jpg" tvg-logo="http://goo.gl/CBoSv6" group-title="DESENHOS 24HRS",A FAMILIA DINOSSAURO
+rtmp://208.53.164.194/live/ playpath=dino swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Castelo.jpg" tvg-logo="http://goo.gl/Kt6dAZ" group-title="DESENHOS 24HRS",CASTELO RA-TIM-BUM
+rtmp://208.53.164.194/live/ playpath=castelo swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Duck.jpg" tvg-logo="http://goo.gl/CF9X1w" group-title="DESENHOS 24HRS",DUCKTALES
+rtmp://208.53.164.194/live/ playpath=duck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Flingstons.png" tvg-logo="http://goo.gl/nu2m2y" group-title="DESENHOS 24HRS",FLINTSTONES
+rtmp://208.53.164.194/live/ playpath=flinstones swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Liga-da-Justica.jpg" tvg-logo="http://goo.gl/0WSSSE" group-title="DESENHOS 24HRS",LIGA DA JUSTICA
+rtmp://208.53.164.194/live/ playpath=liga swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Thuunder.jpg" tvg-logo="http://goo.gl/yfYnCI" group-title="DESENHOS 24HRS",THUNDERCATS
+rtmp://208.53.164.194/live/ playpath=thunder swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IGOR_RANGEL  pageUrl=http://www.carolineoliveira.com.br/tvamigos/
+
+
+
+ 
+
+ 
+ 
+###################################################################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xxx" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 1 Temp",[COLOR yellow]The Walking Dead 1° Temporada[/COLOR]
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/TWDT01EP01.mp4
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 1 Temp",The Walking Dead (T1E01)
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT01EP01.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 1 Temp",The Walking Dead (T1E02)
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT01EP02.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 1 Temp",The Walking Dead (T1E03)
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT01EP03.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 1 Temp",The Walking Dead (T1E04)
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT01EP04.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 1 Temp",The Walking Dead (T1E05)
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT01EP05.mp4 
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 1 Temp",The Walking Dead (T1E06)
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT01EP06.mp4
+
+
+
+
+
+###################################################################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xxx" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 2 Temp",[COLOR yellow] The Walking Dead 2° Temporada [/COLOR]
+http://d3.neodrive.co/stream/5SUV1TLPPLTP/40af772eb8fb6ea4e2fbff1668861552.mp4?st=A1qhYyZOyw_nu22r4-LERg 
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 2 Temp",The Walking Dead (T2E01)
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP01.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 2 Temp",The Walking Dead (T2E02)
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP02.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 2 Temp",The Walking Dead (T2E03)
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP03.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 2 Temp",The Walking Dead (T2E04)
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP04.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 2 Temp",The Walking Dead (T2E05)
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP05.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 2 Temp",The Walking Dead (T2E06)
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP06.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 2 Temp",The Walking Dead (T2E07)
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP07.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 2 Temp",The Walking Dead (T2E08)
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP08.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 2 Temp",The Walking Dead (T2E09)
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP09.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 2 Temp",The Walking Dead (T2E10)
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP10.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 2 Temp",The Walking Dead (T2E11)
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP11.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 2 Temp",The Walking Dead (T2E12)
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP12.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 2 Temp",The Walking Dead (T2E13)
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/TWDT02EP13.mp4
+
+
+
+
+
+###################################################################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 3 Temp",[COLOR yellow] The Walking Dead 3° Temporada [/COLOR]
+http://d3.neodrive.co/stream/5SUV1TLPPLTP/40af772eb8fb6ea4e2fbff1668861552.mp4?st=A1qhYyZOyw_nu22r4-LERg 
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 3 Temp",The Walking Dead (T03E01)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/TWDT03EP01.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 3 Temp",The Walking Dead (T03E02)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/TWDT03EP02.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 3 Temp",The Walking Dead (T03E03)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/TWDT03EP03.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 3 Temp",The Walking Dead (T03E04)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/TWDT03EP04.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 3 Temp",The Walking Dead (T03E05)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/TWDT03EP05.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 3 Temp",The Walking Dead (T03E06)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/TWDT03EP06.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 3 Temp",The Walking Dead (T03E07)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/TWDT03EP07.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 3 Temp",The Walking Dead (T03E08)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/TWDT03EP08.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 3 Temp",The Walking Dead (T03E09)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/TWDT03EP09.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 3 Temp",The Walking Dead (T03E10)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/TWDT03EP10.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 3 Temp",The Walking Dead (T03E11)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/TWDT03EP11.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 3 Temp",The Walking Dead (T03E12)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/TWDT03EP12.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 3 Temp",The Walking Dead (T03E13)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/TWDT03EP13.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 3 Temp",The Walking Dead (T03E14)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/TWDT03EP14.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 3 Temp",The Walking Dead (T03E15)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/TWDT03EP15.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 3 Temp",The Walking Dead (T03E16)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/TWDT03EP16.mp4
+
+
+
+
+
+
+###################################################################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 4 Temp",[COLOR yellow] The Walking Dead 4° Temporada [/COLOR]
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/TWDT04EP03.mp4
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 4 Temp",The Walking Dead (T04E01)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/TWDT04EP01.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 4 Temp",The Walking Dead (T04E02)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/TWDT04EP02.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 4 Temp",The Walking Dead (T04E03)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/TWDT04EP03.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 4 Temp",The Walking Dead (T04E04)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/TWDT04EP04.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 4 Temp",The Walking Dead (T04E05)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/TWDT04EP05.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 4 Temp",The Walking Dead (T04E06)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/TWDT04EP06.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 4 Temp",The Walking Dead (T04E07)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/TWDT04EP07.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 4 Temp",The Walking Dead (T04E08)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/TWDT04EP08.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 4 Temp",The Walking Dead (T04E09)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer06/ondemand/TWDT04EP09.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 4 Temp",The Walking Dead (T04E10)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer06/ondemand/TWDT04EP10.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 4 Temp",The Walking Dead (T04E11)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer06/ondemand/TWDT04EP11.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 4 Temp",The Walking Dead (T04E12)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer06/ondemand/TWDT04EP12.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 4 Temp",The Walking Dead (T04E13)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer06/ondemand/TWDT04EP13.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 4 Temp",The Walking Dead (T04E14)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer06/ondemand/TWDT04EP14.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 4 Temp",The Walking Dead (T04E15)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer06/ondemand/TWDT04EP15.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 4 Temp",The Walking Dead (T04E16)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/TWDT04EP16.mp4
+
+
+
+
+
+
+###################################################################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xxx" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 5 Temp",[COLOR yellow] The Walking Dead 5° Temporada [/COLOR]
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/TWDT04EP03.mp4
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 5 Temp",The Walking Dead (T05E01)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/TWDT05EP01.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 5 Temp",The Walking Dead (T05E02)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/TWDT05EP02.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 5 Temp",The Walking Dead (T05E03)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/TWDT05EP03.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 5 Temp",The Walking Dead (T05E04)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/TWDT05EP04.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 5 Temp",The Walking Dead (T05E05)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/TWDT05EP05.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 5 Temp",The Walking Dead (T05E06)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/TWDT05EP06.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 5 Temp",The Walking Dead (T05E07)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/TWDT05EP07.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 5 Temp",The Walking Dead (T05E08)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/TWDT05EP08.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 5 Temp",The Walking Dead (T05E09)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/TWDT05EP09.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 5 Temp",The Walking Dead (T05E10)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/TWDT05EP10.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 5 Temp",The Walking Dead (T05E011)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/TWDT05EP11.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 5 Temp",The Walking Dead (T05E12)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/TWDT05EP12.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 5 Temp",The Walking Dead (T05E13)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/TWDT05EP13.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 5 Temp",The Walking Dead (T05E14)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/TWDT05EP14.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 5 Temp",The Walking Dead (T05E15)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/TWDT05EP15.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 5 Temp",The Walking Dead (T05E16)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/TWDT05EP16.mp4
+
+
+
+
+
+###################################################################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 6 Temp",[COLOR yellow] The Walking Dead 6° Temporada [/COLOR]
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/TWDT06EP01.mp4
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 6 Temp",The Walking Dead (T06E01)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/TWDT06EP01.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 6 Temp",The Walking Dead 6 Temp",The Walking Dead (T06E02)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/TWDT06EP02.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 6 Temp",The Walking Dead 6 Temp",The Walking Dead (T06E03)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/TWDT06EP03.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 6 Temp",The Walking Dead 6 Temp",The Walking Dead (T06E04)
+http://server.crazzy.com/RedeCanais/RedeCanais2/RCServer10/ondemand/TWDT06EP04.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 6 Temp",The Walking Dead 6 Temp",The Walking Dead (T06E05)
+http://server.crazzy.com/RedeCanais/RedeCanais2/RCServer10/ondemand/TWDT06EP05.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 6 Temp",The Walking Dead 6 Temp",The Walking Dead (T06E06)
+http://server.crazzy.com/RedeCanais/RedeCanais2/RCServer10/ondemand/TWDT06EP06.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 6 Temp",The Walking Dead 6 Temp",The Walking Dead (T06E07)
+http://server.crazzy.com/RedeCanais/RedeCanais2/RCServer10/ondemand/TWDT06EP07.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 6 Temp",The Walking Dead 6 Temp",The Walking Dead (T06E08)
+http://server.crazzy.com/RedeCanais/RedeCanais2/RCServer10/ondemand/TWDT06EP08.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 6 Temp",The Walking Dead 6 Temp",The Walking Dead (T06E09)
+http://server.crazzy.com/RedeCanais/RedeCanais2/RCServer10/ondemand/TWDT06EP09.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 6 Temp",The Walking Dead 6 Temp",The Walking Dead (T06E10)
+http://server.crazzy.com/RedeCanais/RedeCanais2/RCServer10/ondemand/TWDT06EP10.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 6 Temp",The Walking Dead 6 Temp",The Walking Dead (T06E11)
+http://server.crazzy.com/RedeCanais/RedeCanais2/RCServer10/ondemand/TWDT06EP11.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="The-Walking-Dead.png" tvg-logo="http://goo.gl/rlXtYM" group-title=" The Walking Dead 6 Temp",The Walking Dead 6 Temp",The Walking Dead (T06E12)
+http://server.crazzy.com/RedeCanais/RedeCanais2/RCServer10/ondemand/TWDT06EP12.mp4
+
+
+
+
+
+
+###################################################################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xxx" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 1 Temp",[COLOR yellow]UNDER THE DOME 1° Temporada [/COLOR]
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer08/ondemand/UNDRTDMT01EP01.mp4
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 1 Temp",UNDER THE DOME (T01E01)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/UNDRTDMT01EP01.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 1 Temp",UNDER THE DOME (T01E02)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/UNDRTDMT01EP02.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 1 Temp",UNDER THE DOME (T01E03)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/UNDRTDMT01EP03.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 1 Temp",UNDER THE DOME (T01E04)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/UNDRTDMT01EP04.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 1 Temp",UNDER THE DOME (T01E05)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/UNDRTDMT01EP05.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 1 Temp",UNDER THE DOME (T01E06)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/UNDRTDMT01EP06.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 1 Temp",UNDER THE DOME (T01E07)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/UNDRTDMT01EP07.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 1 Temp",UNDER THE DOME (T01E08)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/UNDRTDMT01EP08.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 1 Temp",UNDER THE DOME (T01E09)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/UNDRTDMT01EP09.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 1 Temp",UNDER THE DOME (T01E10)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/UNDRTDMT01EP10.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 1 Temp",UNDER THE DOME (T01E11)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/UNDRTDMT01EP11.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 1 Temp",UNDER THE DOME (T01E12)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/UNDRTDMT01EP12.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 1 Temp",UNDER THE DOME (T01E13)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/UNDRTDMT01EP13.mp4
+
+
+
+
+
+
+
+###################################################################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="Xxx" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 2 Temp",[COLOR yellow]UNDER THE DOME 2° Temporada [/COLOR]
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP01.mp4
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 2 Temp",UNDER THE DOME (T02E01)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP01.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 2 Temp",UNDER THE DOME (T02E02)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP02.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 2 Temp",UNDER THE DOME (T02E03)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP03.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 2 Temp",UNDER THE DOME (T02E04)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP04.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 2 Temp",UNDER THE DOME (T02E05)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP05.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 2 Temp",UNDER THE DOME (T02E06)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP06.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 2 Temp",UNDER THE DOME (T02E07)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP07.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 2 Temp",UNDER THE DOME (T02E08)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP08.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 2 Temp",UNDER THE DOME (T02E09)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP09.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 2 Temp",UNDER THE DOME (T02E10)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP10.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 2 Temp",UNDER THE DOME (T02E11)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP11.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 2 Temp",UNDER THE DOME (T02E12)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP12.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 2 Temp",UNDER THE DOME (T02E13)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP13.mp4
+
+
+
+
+
+
+
+
+###################################################################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 3 Temp",[COLOR yellow]UNDER THE DOME 3° Temporada [/COLOR]
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT02EP01.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 3 Temp",UNDER THE DOME (T03E01e2)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP01-02.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 3 Temp",UNDER THE DOME (T03E03)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP03.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 3 Temp",UNDER THE DOME (T03E04)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP04.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 3 Temp",UNDER THE DOME (T03E05)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP05.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 3 Temp",UNDER THE DOME (T03E06)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP06.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 3 Temp",UNDER THE DOME (T03E07)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP07.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 3 Temp",UNDER THE DOME (T03E08)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP08.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 3 Temp",UNDER THE DOME (T03E09)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP09.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 3 Temp",UNDER THE DOME (T03E10)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP10.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 3 Temp",UNDER THE DOME (T03E11)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP11.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 3 Temp",UNDER THE DOME (T03E12)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP12.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="UNDER.jpg" tvg-logo="http://goo.gl/G4eSqU" group-title="UNDER THE DOME 3 Temp",UNDER THE DOME (T03E13)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/UNDRTDMT03EP13.mp4
+
+
+
+
+
+
+
+###################################################################################################################################################################################
+
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",[COLOR yellow]PRISON BREAK 1° Temporada [/COLOR]
+http://server.redecanais.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP01.mp4
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E01)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP01.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E02)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP02.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E03)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP03.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E04)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP04.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E05)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP05.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E06)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP06.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E07)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP07.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E08)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP08.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E09)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP09.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E10)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP10.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E11)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP11.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E12)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP12.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E13)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP13.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E14)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP14.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E15)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP15.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E16)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP16.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E17)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP17.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E18)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP18.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E19)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP19.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E20)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP20.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E21)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP21.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 1 Temp",PRISON BREAK (T01E22)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP22.mp4
+
+
+
+
+
+###################################################################################################################################################################################
+
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",[COLOR yellow]PRISON BREAK 2° Temporada [/COLOR]
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP01.mp4
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E01)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP01.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E02)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP02.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E03)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP03.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E04)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP04.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E05)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP05.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E06)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP06.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E07)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP07.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E08)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP08.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E09)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP09.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E10)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP10.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E11)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP11.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E12)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP12.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E13)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP13.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E14)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP14.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E15)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP15.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E16)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP16.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E17)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP17.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E18)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP18.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E19)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP19.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E20)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP20.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E21)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP21.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 2 Temp",PRISON BREAK (T02E22)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP22.mp4
+
+
+
+
+
+
+###################################################################################################################################################################################
+
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 3 Temp",[COLOR yellow]PRISON BREAK 3° Temporada [/COLOR]
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP01.mp4
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 3 Temp",PRISON BREAK (T03E01)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP01.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 3 Temp",PRISON BREAK (T03E02)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP02.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 3 Temp",PRISON BREAK (T03E03)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP03.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 3 Temp",PRISON BREAK (T03E04)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP04.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 3 Temp",PRISON BREAK (T03E05)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP05.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 3 Temp",PRISON BREAK (T03E06)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP06.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 3 Temp",PRISON BREAK (T03E07)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP07.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 3 Temp",PRISON BREAK (T03E08)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP08.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 3 Temp",PRISON BREAK (T03E09)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP09.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 3 Temp",PRISON BREAK (T03E10)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP10.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 3 Temp",PRISON BREAK (T03E11)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP11.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 3 Temp",PRISON BREAK (T03E12)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP12.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 3 Temp",PRISON BREAK (T03E13)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP13.mp4
+
+
+
+
+
+
+###################################################################################################################################################################################
+
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",[COLOR yellow]PRISON BREAK 4° Temporada [/COLOR]
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP01.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E01e2)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP01-02.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E03)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP03.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E04)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP04.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E05)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP05.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E06)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP06.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E07)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP07.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E08)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP08.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E09)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP09.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E10)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP10.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E11)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP11.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E12)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP12.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E13)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP13.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E14)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP14.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E15)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP15.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E16)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP16.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E17)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP17.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E18)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP18.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E19)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP19.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E20)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP20.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E21)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP21.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E22)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP22.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="xx" tvg-logo="http://goo.gl/oQIjLD" group-title="PRISON BREAK 4 Temp",PRISON BREAK (T04E23e24)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP23-24.mp4
+
+
+
+
+
+
+
+
+###################################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 1 Temp",[COLOR yellow]GAME OF THRONES 1° Temporada [/COLOR]
+http://d3.neodrive.co/stream/5SUV1TLPPLTP/40af772eb8fb6ea4e2fbff1668861552.mp4?st=A1qhYyZOyw_nu22r4-LERg 
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 1 Temp",GAME OF THRONES (T1E01)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT01EP01.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 1 Temp",GAME OF THRONES (T1E02)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT01EP02.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 1 Temp",GAME OF THRONES (T1E03)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT01EP03.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 1 Temp",GAME OF THRONES (T1E04)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT01EP04.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 1 Temp",GAME OF THRONES (T1E05)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT01EP05.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 1 Temp",GAME OF THRONES (T1E06)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT01EP06.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 1 Temp",GAME OF THRONES (T1E07)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT01EP07.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 1 Temp",GAME OF THRONES (T1E08)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT01EP08.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 1 Temp",GAME OF THRONES (T1E09)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT01EP09.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 1 Temp",GAME OF THRONES (T1E10)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT01EP10.mp4
+
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 2 Temp",[COLOR yellow]GAME OF THRONES 2° Temporada [/COLOR]
+http://d3.neodrive.co/stream/5SUV1TLPPLTP/40af772eb8fb6ea4e2fbff1668861552.mp4?st=A1qhYyZOyw_nu22r4-LERg 
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 2 Temp",GAME OF THRONES (T2E01)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT02EP01.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 2 Temp",GAME OF THRONES (T2E02)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT02EP02.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 2 Temp",GAME OF THRONES (T2E03)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT02EP03.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 2 Temp",GAME OF THRONES (T2E04)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT02EP04.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 2 Temp",GAME OF THRONES (T2E05)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT02EP05.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 2 Temp",GAME OF THRONES (T2E06)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT02EP06.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 2 Temp",GAME OF THRONES (T2E07)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT02EP07.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 2 Temp",GAME OF THRONES (T2E08)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT02EP08.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 2 Temp",GAME OF THRONES (T2E09)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT02EP09.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 2 Temp",GAME OF THRONES (T2E10)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer01/videos/GMOFTRT02EP10.mp4
+
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 3 Temp",[COLOR yellow]GAME OF THRONES 3° Temporada [/COLOR]
+http://d3.neodrive.co/stream/5SUV1TLPPLTP/40af772eb8fb6ea4e2fbff1668861552.mp4?st=A1qhYyZOyw_nu22r4-LERg 
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 3 Temp",GAME OF THRONES (T3E01)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GMOFTRT03EP01.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 3 Temp",GAME OF THRONES (T3E02)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GMOFTRT03EP02.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 3 Temp",GAME OF THRONES (T3E03)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GMOFTRT03EP03.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 3 Temp",GAME OF THRONES (T3E04)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GMOFTRT03EP04.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 3 Temp",GAME OF THRONES (T3E05)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer04/ondemand/GMOFTRT03EP05.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 3 Temp",GAME OF THRONES (T3E06)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/GMOFTRT03EP06.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 3 Temp",GAME OF THRONES (T3E07)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/GMOFTRT03EP07.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 3 Temp",GAME OF THRONES (T3E08)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/GMOFTRT03EP08.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 3 Temp",GAME OF THRONES (T3E09)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/GMOFTRT03EP09.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 3 Temp",GAME OF THRONES (T3E10)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer05/ondemand/GMOFTRT03EP10.mp4
+
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 4 Temp",[COLOR yellow]GAME OF THRONES 4° Temporada [/COLOR]
+http://d3.neodrive.co/stream/5SUV1TLPPLTP/40af772eb8fb6ea4e2fbff1668861552.mp4?st=A1qhYyZOyw_nu22r4-LERg 
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 4 Temp",GAME OF THRONES (T4E01)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/GMOFTRS04EP01.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 4 Temp",GAME OF THRONES (T4E02)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/GMOFTRS04EP02.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 4 Temp",GAME OF THRONES (T4E03)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/GMOFTRS04EP03.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 4 Temp",GAME OF THRONES (T4E04)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/GMOFTRS04EP04.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 4 Temp",GAME OF THRONES (T4E05)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer07/ondemand/GMOFTRS04EP05.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 4 Temp",GAME OF THRONES (T4E06)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/GMOFTRT04EP06.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 4 Temp",GAME OF THRONES (T4E07)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/GMOFTRT04EP07.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 4 Temp",GAME OF THRONES (T4E08)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/GMOFTRT04EP08.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 4 Temp",GAME OF THRONES (T4E09)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/GMOFTRT04EP09.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 4 Temp",GAME OF THRONES (T4E10)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer08/ondemand/GMOFTRT04EP10.mp4
+
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 5 Temp",[COLOR yellow]GAME OF THRONES 5° Temporada [/COLOR]
+http://d3.neodrive.co/stream/5SUV1TLPPLTP/40af772eb8fb6ea4e2fbff1668861552.mp4?st=A1qhYyZOyw_nu22r4-LERg 
+
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 5 Temp",GAME OF THRONES (T5E01)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GMOFTRT05EP01.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 5 Temp",GAME OF THRONES (T5E02)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GMOFTRT05EP02.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 5 Temp",GAME OF THRONES (T5E03)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GMOFTRT05EP03.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 5 Temp",GAME OF THRONES (T5E04)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GMOFTRT05EP04.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 5 Temp",GAME OF THRONES (T5E05)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GMOFTRT05EP05.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 5 Temp",GAME OF THRONES (T5E06)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GMOFTRT05EP06.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 5 Temp",GAME OF THRONES (T5E07)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GMOFTRT05EP07.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 5 Temp",GAME OF THRONES (T5E08)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GMOFTRT05EP08.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 5 Temp",GAME OF THRONES (T5E09)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GMOFTRT05EP09.mp4
+
+#EXTINF:-1 tvg-id="xx" tvg-logo="GAME_OFF.jpg" tvg-logo="http://goo.gl/lC061k" group-title="GAME OF THRONES 5 Temp",GAME OF THRONES (T5E10)
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/GMOFTRT05EP10.mp4
+
+
+
+
+
+###################################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/RRBFQT" group-title="CAMERAS BELO HORIZONTE",[COLOR yellow]            > > > CAMERAS BELO HORIZONTE < < <[/COLOR]
+rtmpe://r.livecast.cc/rs/ playpath=zukaa222-matfs swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed/zukaa222-matfs timeout=10/
+
+#EXTINF:-1 tvg-id="xxx" tvg-logo="BhTrans.png" tvg-logo="http://goo.gl/RRBFQT" group-title="CAMERAS BELO HORIZONTE",Anel Rodoviario X Praça Sao Vicente
+http://streaming-1-radar.g1.globo.com/EntryPoint-Radar-BH/BHCamera8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="xxx" tvg-logo="BhTrans.png" tvg-logo="http://goo.gl/RRBFQT" group-title="CAMERAS BELO HORIZONTE",Rod Fernao Dias KM 494-Betim
+http://streaming-1-radar.g1.globo.com/EntryPoint-Radar-BH/BHCamera9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="xxx" tvg-logo="BhTrans.png" tvg-logo="http://goo.gl/RRBFQT" group-title="CAMERAS BELO HORIZONTE",BR-356 Belvedere
+http://streaming-1-radar.g1.globo.com/EntryPoint-Radar-BH/BHCamera4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="xxx" tvg-logo="BhTrans.png" tvg-logo="http://goo.gl/RRBFQT" group-title="CAMERAS BELO HORIZONTE",Rod.Fernao Dias KM 504/Betim
+http://streaming-1-radar.g1.globo.com/EntryPoint-Radar-BH/BHCamera10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="xxx" tvg-logo="BhTrans.png" tvg-logo="http://goo.gl/RRBFQT" group-title="CAMERAS BELO HORIZONTE",Av Amazonas X Anel Rodoviario
+http://streaming-1-radar.g1.globo.com/EntryPoint-Radar-BH/BHCamera6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="xxx" tvg-logo="BhTrans.png" tvg-logo="http://goo.gl/RRBFQT" group-title="CAMERAS BELO HORIZONTE",Av. Afonso Pena
+http://streaming-1-radar.g1.globo.com/EntryPoint-Radar-BH/BHCamera5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="xxx" tvg-logo="BhTrans.png" tvg-logo="http://goo.gl/RRBFQT" group-title="CAMERAS BELO HORIZONTE",Rod Fernao Dias KM 478/Contagem
+http://streaming-1-radar.g1.globo.com/EntryPoint-Radar-BH/BHCamera11/playlist.m3u8
+
+#EXTINF:-1 tvg-id="xxx" tvg-logo="BhTrans.png" tvg-logo="http://goo.gl/RRBFQT" group-title="CAMERAS BELO HORIZONTE",Av Cristiano Machado
+http://streaming-1-radar.g1.globo.com/EntryPoint-Radar-BH/BHCamera2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="xxx" tvg-logo="BhTrans.png" tvg-logo="http://goo.gl/RRBFQT" group-title="CAMERAS BELO HORIZONTE",Barragem da Pampulha.
+http://streaming-1-radar.g1.globo.com/EntryPoint-Radar-BH/BHCamera3/playlist.m3u8
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+
+#RÁDIO
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="" tvg-name=""radio=true,[COLOR yellow]#####RADIO####[/COLOR]
+http://0.0.0.0:123455
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="Paiquer fm.png" tvg-name="Sound Pop"radio=true,SOUND POP
+http://s4.voscast.com:7746/
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="Itatiaia.png" tvg-name="Itatiaia"radio=true,ITATIAIA (BH)
+http://r_itatiaia_hls-lh.akamaihd.net/i/radio_itatiaia@103071/index_hls_a-p.m3u8?sd=10&rebase=on?IGOR_RANGEL
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="Itatiaia.png" tvg-name="Itatiaia"radio=true,ITATIAIA
+http://aovivo.radios.com.br:8110/
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s150642q.png" tvg-name=""radio=true,TRANSAMERICA (São Paulo)
+http://str.telium.com.br:8000/sp_pop
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s150758q.png" tvg-name=""radio=true,JOVEN PAM (Campinas)
+http://paineldj2.com.br:8200/
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s129723q.png" tvg-name=""radio=true,JOVEN PAM (BH)
+http://sh1.upx.com.br:8036/
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s150758q.png" tvg-name=""radio=true,JOVEN PAM (Uberaba)
+http://sc1.crossdigital.com.br:8190/
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/.png" tvg-name=""radio=true,102.9 (BH)
+rtmp://stream.izap.com.br:80/live/ playpath=1029fm.stream  swfUrl=http://fm1029.com.br/plus/scripts/jwplayer/jwplayer.flash.swf  pageUrl=http://fm1029.com.br/plus/frplayer.php
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/.png" tvg-name=""radio=true,KISS FM
+http://10443.live.streamtheworld.com/SAOPAULO1021AAC?pname=StandardPlayerV4&pversion=4.10.3-002&tdsdk=js-2.6&banners=300x250%2Cswf%2Cvpaid&uuid=89567c2d-53ec-4f3c-b143-3944133586cd
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s152230q.png" tvg-name=""radio=true,MIX FM (SP)
+http://tuneinmix.crossradio.com.br:8008/
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s152230q.png" tvg-name=""radio=true,MIX FM (RJ)
+rtmp://evp.mm.uol.com.br/mixriofm/_definst_ playpath=mixriofm  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-Mix-102.1-FM/13958
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s152230q.png" tvg-name=""radio=true,MIX FM (Jao Pessoa)
+http://174.37.99.199:8318/
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s152230q.png" tvg-name=""radio=true,MIX FM (Belem)
+http://174.142.176.108:9252/
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s152230q.png" tvg-name=""radio=true,MIX FM (Campinas)
+http://afiliadamix1.crossradio.com.br:9008/
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s152230q.png" tvg-name=""radio=true,MIX FM (Curitiba)
+http://vilhavelhafm.dnip.com.br:8060/
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="Itatiaia.png" tvg-name="ESTADÃO ESPN FM"radio=true,RADIO ESTADÃO ESPN FM
+rtmp://cp203336.live.edgefcs.net/live/ playpath=espnibra-radio-1@21764  swfUrl=http://d3bwsr3zpy54hy.cloudfront.net/201501191057/js/lib/swf/player-AS3.swf?IGOR_RANGEL  pageUrl=http://tunein.com/radio/Radio-ESPN-(Brasil)-s188767/
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s175902q.png" tvg-name="BH FM "radio=true,TUPI (Brasilia)
+http://173.193.202.68:8930/
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s175902q.png" tvg-name="BH FM "radio=true,TUPI
+rtmp://cdn.rj.assocrj.com.br:80/live playpath=tupi-estudio-audio06  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Super-Radio-Tupi-FM-96.5-AM-1280/14215
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s16186q.png" tvg-name=""radio=true,CBN (BH)
+http://mob.sgr.globo.com:9100/icbnbh
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s16186q.png" tvg-name=""radio=true,CBN (RIO)
+rtmp://media.sgr.globo.com:1935/CBNRD/ playpath=cbnrj.sdp  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-CBN-Rio-860-AM/8819
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s16186q.png" tvg-name=""radio=true,CBN (SÃO PAULO) 
+rtmp://media.sgr.globo.com:1935/CBNRD/ playpath=cbnsp.sdp  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGE  pageUrl=http://www.radios.com.br/aovivo/Radio-CBN-Sao-Paulo-780-AM-90.5-FM/8816
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s119918q.png" tvg-name=""radio=true,CBN (Goiania)
+http://177.124.129.202:8156/
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s165745q.png" tvg-name=""radio=true,CBN (Recife)
+http://sh2.upx.com.br:8012/
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s144612q.png" tvg-name=""radio=true,CBN (Salvador)
+http://sh1.upx.com.br:8100/
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s16186q.png" tvg-name=""radio=true,CBN (Brasilia) 
+http://mob.sgr.globo.com:9100/icbnbsb
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s8946q.png" tvg-name=""radio=true,CBN (Campinas) 
+http://sh1.upx.com.br:8030/
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s144137q.png" tvg-name=""radio=true,Radio Globo (Sao Paulo) 
+http://mob.sgr.globo.com:9000/igamsp
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s144137q.png" tvg-name=""radio=true,Radio Globo (BH) 
+http://mob.sgr.globo.com:9000/igambh
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="" tvg-name="http://cdn-radiotime-logos.tunein.com/s144137q.png"radio=true,Radio Globo (Rio) 
+http://mob.sgr.globo.com:9000/igamrj
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="" tvg-name="http://cdn-radiotime-logos.tunein.com/s100249q.png"radio=true,Radio Globo (Natal) 
+http://06.stmip.net:7780/
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="" tvg-name="http://cdn-radiotime-logos.tunein.com/s98830q.png"radio=true,Radio Bandeirantes (Canpinas) 
+http://167.114.103.39:8470/
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="" tvg-name="http://cdn-radiotime-logos.tunein.com/s172107q.png"radio=true,Radio Bandeirantes (Florianopolis) 
+http://streaming01.maxcast.com.br:8234/live
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="" tvg-name="http://cdn-radiotime-logos.tunein.com/s184925q.png"radio=true,Radio Bandeirantes (Bauru) 
+http://174.37.99.199:8276/
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="" tvg-name="http://cdn-radiotime-logos.tunein.com/s184925q.png"radio=true,Radio Bandeirantes (SP)  
+rtmp://evp.mm.uol.com.br:1935/radioam_sp playpath=radioam_sp  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-Bandeirantes-840-AM-90.9-FM/10410
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="" tvg-name="http://cdn-radiotime-logos.tunein.com/s184925q.png"radio=true,Radio Bandeirantes (RJ) 
+rtmp://reclamaradianta.flashplayer.acessaradios.com.br:443/reclamaradianta playpath=reclamaradianta  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-Bandeirantes-Rio-1360-AM/23014
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="" tvg-name=""radio=true,RADIO GRENAL
+http://108.168.175.149:10115/stream
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="" tvg-name=""radio=true,ELDORADO 1300
+http://radioeldorado.dyndns.org:15000/;stream.nsv
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="" tvg-name=""radio=true,RADIO POP ROCK
+http://listen.rockradio.com/public3/poprock.pls
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="Itatiaia.png" tvg-name="BH FM "radio=true,BH FM 
+rtmp://media.sgr.globo.com/MusicalRD/ playpath=bhfm.sdp  swfUrl=http://cdn.radiosfm.org/swf/soundmanager2_flash9.swf?IGOR_RANGEL  pageUrl=http://www.radiosaovivo.net/radios-de-minas-gerais/#bh-fm-102-belo-horizonte
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="" tvg-name=""radio=true,BAND FM SP
+rtmp://evp.mm.uol.com.br/bandfm_sp/_definst_ playpath=bandfm_sp  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-Band-FM-96.1-FM/10358
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="" tvg-name=""radio=true,BAND NEWS RJ
+rtmp://evp.mm.uol.com.br/bnewsfm_rj/_definst_ playpath=bnewsfm_rj.sdp  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-BandNews-94.9-FM/10399
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="" tvg-name=""radio=true,BAND NEWS SP
+rtmp://evp.mm.uol.com.br/bnewsfm_sp/_definst_/ playpath=bnewsfm_sp  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-Bandnews-96.9-FM/24477
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="" tvg-name=""radio=true,BAND NEWS MG
+rtmp://evp.mm.uol.com.br/bnewsfm_bh/_definst_ playpath=bnewsfm_bh  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-BandNews-89.5-FM/10402
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="Itatiaia.png" tvg-name="BH FM "radio=true,BRADESCO ESPORTES SP
+rtmp://evp.mm.uol.com.br/bradescoespfm_sp/_definst_ playpath=bradescoespfm_sp  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-Bradesco-Esportes-94.1-FM/20552
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="Itatiaia.png" tvg-name="BH FM "radio=true,BRADESCO ESPORTES RJ
+rtmp://evp.mm.uol.com.br/bradescoespfm_rj/_definst_ playpath=bradescoespfm_rj.sdp  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-Bradesco-Esportes-91.1-FM/18882
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="" tvg-name=""radio=true,MEGA NET
+rtmp://evp.mm.uol.com.br/jovempanfm playpath=jovempanfm.sdp  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-Jovempan-100.9-FM/8829
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="RÁDIO CIDADE.png" tvg-name="RÁDIO CIDADE"radio=true,RÁDIO CIDADE
+rtmp://flash.midiaip.com.br:1935/cidade.stream playpath=shoutcast:default.stream swfUrl=http://www.midiaip.com.br/radios/px100b2.swf?canal=cidade.stream&autoplay=1 pageUrl=http://radiocidade.uvv.br/player.html
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="TRIBUNA FM.png" tvg-name="TRIBUNA FM"radio=true,TRIBUNA FM
+rtmp://flash2.midiaip.com.br/tribunafmvix.stream/ playpath=default.stream swfUrl=http://cdn.radiosfm.org/swf/soundmanager2_flash9.swf pageUrl=http://www.radiosaovivo.net/radios-do-espirito-santo/#tribuna-fm-99_1-vitoria
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="LITORAL FM.png" tvg-name="LITORAL FM"radio=true,LITORAL FM
+rtmp://10045b.ls.azioncdn.net/0045b/ playpath=a/access_options/rtmp-live/lfmv.sdp swfUrl=http://cdn.radiosfm.org/swf/soundmanager2_flash9.swf pageUrl=http://www.radiosaovivo.net/radios-do-espirito-santo/#radio-litoral-fm-102_3-vitoria
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="FM SUPER-vitória.png" tvg-name="FM SUPER"radio=true,FM SUPER VITORIA
+rtmp://flash2.midiaip.com.br/supergv.stream/ playpath=default.stream swfUrl=http://cdn.radiosfm.org/swf/soundmanager2_flash9.swf pageUrl=http://www.radiosaovivo.net/radios-do-espirito-santo/#fm-super-94_5-vitoria
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="FM SUPER-afonso cláudio.png" tvg-name="FM SUPER"radio=true,FM SUPER
+rtmp://flash2.midiaip.com.br/supergv.stream/ playpath=default.stream swfUrl=http://cdn.radiosfm.org/swf/soundmanager2_flash9.swf pageUrl=http://www.radiosaovivo.net/radios-do-espirito-santo/#fm-super-101_9-afonso-claudio
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="NOVA ONDA.png" tvg-name="NOVA ONDA"radio=true,NOVA ONDA
+rtmp://midiahd.ipcastdigital.com.br:1935/nondanv/ playpath=default.stream swfUrl=http://cdn.radiosfm.org/swf/soundmanager2_flash9.swf pageUrl=http://www.radiosaovivo.net/radios-do-espirito-santo/#nova-onda-fm-99_3-nova-venecia
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="BAND FM-são paulo.png" tvg-name="BAND FM"radio=true,BAND FM
+rtmp://stream5.euroti.com.br/Stream playpath=http://euroticast5.euroti.com.br:8256 swfUrl=http://bandfm967.herokuapp.com/playeraac.swf pageUrl=http://bandfm967.herokuapp.com/player/
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="MIX.png" tvg-name="MIX"radio=true,MIX
+rtmp://173.193.156.98/mix/ playpath=http://173.193.156.98:8000 swfUrl=http://cdn.radiosfm.org/swf/soundmanager2_flash9.swf pageUrl=http://www.radiosaovivo.net/radios-do-espirito-santo/#radio-mix-106_9-fm-vitori
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="Alvorada am-Londrina.png" tvg-name="Folha fm-Londrina"radio=true,ALVORADA LONDRINA
+http://a5.fabricahost.com.br:1935/alvoradalondrina/stream/playlist.m3u8
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="Alvorada am-Londrina.png" tvg-name="Folha fm-Londrina"radio=true,RADIO ATLANTA (RS)
+rtmp://42747t.lp.azioncdn.net:1935/2747t/ playpath=a/mp4:access_options/rtmp-live/atl_poa.sdp  swfUrl=http://cdn.radiosfm.org/swf/soundmanager2_flash9.swf?igor_rangel  pageUrl=http://www.radiosaovivo.net/atlantida/
+
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="Alvorada am-Londrina.png" tvg-name="Folha fm-Londrina"radio=true,JOVEN PAM (RS)
+rtmp://174.37.99.198/flash986 playpath=jpfm  swfUrl=http://www.redepampa.com.br/novo/radiosonline/jovempannovo.swfIGOR_RANGEL  pageUrl=http://www.redepampa.com.br/novo/radiosonline/jovempan.php
+
+#EXTINF:0 $ExtFilter="RADIO" group-title="RADIO" tvg-logo="Alvorada am-Londrina.png" tvg-name="Folha fm-Londrina"radio=true,Riav
+mms://189.3.186.70/am
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RADIO" tvg-logo="Alvorada  tvg-logo="https://goo.gl/?_e_pi_=7,PAGE_ID10,9407462012" tvg-name="Folha fm-Londrina"radio=true,MIX (RS)
+rtmp://ls.azioncdn.net:1935/0041b/a/access_options/rtmp-live/ playpath=poprock.sdp  swfUrl=http://pt.streema.com/static/flash/player.rtmp.v1.swf?IGOR_RANGEL  pageUrl=http://pt.streema.com/radios/play/13895
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/R8vqg7y.png" group-title="Inicial" , ATUALIZADO 18/10/2017
+http://www.macfeijaoeletricista.com
+
+###########################################CANAIS ABERTO ###################################
+
+
+#EXTINF:-1 tvg-id="TV CULTURA SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tvcultura.png" group-title="CANAIS ABERTOS",TV CULTURA SD
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://s8.postimg.org/8jngz0put/SBT-_SD.png" group-title="Canais abertos",SBT
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://s8.postimg.org/8jngz0put/SBT-_SD.png" group-title="Canais abertos",SBT
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO SP SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo_sp.png" group-title="CANAIS ABERTOS",GLOBO SP SD
+http://dragoniptv99.dyndns.tv:8505/live/francis/francis/660.ts ? GeraldoFilho GLOBO SP SD
+
+
+#EXTINF:-1 tvg-id="Band Rede" tvg-name="Band" tvg-logo="https://s2.postimg.org/5rqqnz56h/BAND-_SD.png" group-title="Canais abertos",Band
+http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV!" tvg-logo="https://s9.postimg.org/u068zwadb/Rede_TV-_SD.png" group-title="Canais abertos",Rede TV!
+http://video01.viaflux.com:1935/live/mp4:tvsudoeste_source/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="Record SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/record.png" group-title="CANAL ABERTO",Record SD
+http://calertahls-lh.akamaihd.net/i/calertahls_1@167570/index_480_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Record HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/record.png" group-title="CANAL ABERTO",Record HD
+http://calertahls-lh.akamaihd.net/i/calertahls_1@167570/master.m3u8
+
+#EXTINF:-1 tvg-id="TV GAZETA" tvg-logo="https://listaiptvbrasil.com/logo/tvgazeta.png" group-title="CANAL ABERTOS", TV GAZETA SP
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/2R3A4U7Abd/P3uLvqZ8Xpuaf2B7.png" group-title="CANAL ABERTO", LIVRE TV 
+http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
+
+
+
+
+##################################### NEWS ###################################################
+
+
+#EXTINF:-1 tvg-id="BAND NEWS SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band_news.png" group-title="NOTÍCIAS",BAND NEWS SD
+http://dragoniptv99.dyndns.tv:8505/live/francis/francis/697.ts ?
+
+#EXTINF:-1 tvg-id="GLOBO NEWS SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globonews.png" group-title="NOTÍCIAS",GLOBO NEWS SD
+http://dragoniptv99.dyndns.tv:8505/live/francis/francis/659.ts ? GeraldoFilho GLOBO NEWS SD
+
+
+#EXTINF:-1 tvg-id="Record News [Brazil]" tvg-name="Record News" tvg-logo="https://s30.postimg.org/zacjvnw9t/Record_NEWS-_SD.png" group-title="Notícias",Record News
+http://stmv4.euroti.com.br:1935/recordnewses/recordnewses/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",TV News 
+http://45.43.208.98:1935/tvnews/tvnews/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Channel_logo.png" group-title="NOTICIAS", Fox News
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/11hxmc7.jpg",FOX 23 NEWS 
+http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/EnuqEv8ovX/dLoFkHGUExYwUjU1.png" group-title="ITALIA", RAI NEWS 
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
+
+
+
+
+##################################### Desenhos ############################################
+
+
+#EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2013/07/tv-1.png" group-title="Canais Infantil", Carton Retro
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Disney XD [Brazil]" tvg-name="Disney XD" tvg-logo="https://s12.postimg.org/rcdoexse5/Disney_XD-_SD.png" group-title="Canais infantis",Disney XD
+http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon [Brazil]" tvg-name="Nickelodeon" tvg-logo="https://s13.postimg.org/pj2tgggt3/Nickelodeon-_SD.png" group-title="Canais infantis",Nickelodeon
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
+
+
+############################################ CANAIS BRASILEIROS ######################################
+
+
+#EXTINF:-1 type="CANAIS BRASILEIROS" channelId="2624" tvg-group="CANAIS BRASILEIROS" tvg-logo="http://s20.postimg.org/pirdnrjxp/SESC_TV.png" , SESC TV
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8
+
+#EXTINF:-1 type="favorites" tvg-group="CANAIS BRASILEIROS" tvg-logo="http://s29.postimg.org/ihddsrsfb/Logotipo_da_Rede_Meio_Norte.png" , Rede Meio Norte
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yG3hjZW.png" group-title="CANAIS BRASILEIROS", MULTITV
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/4Wl7FY" group-title="WEB TV",WEB TV SÃO CAETANO 
+http://webtvsaocaetano.flashplayer.acessaradios.com.br:1935/webtvsaocaetano/webtvsaocaetano/live.m3u8
+
+#EXTINF:-1 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s16.postimg.org/axul05l4l/TV_Paran.jpg" , TV Paraná
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png" , TV INES
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream2/playlist.m3u8
+
+#EXTINF:-1 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s16.postimg.org/kc0ijy1bp/TV_Indaiatuba.png" , TV Indaiatuba
+http://172.93.110.130:1935/esporte/esporte/playlist.m3u8
+
+#EXTINF:-1 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s14.postimg.org/q5ktdtgxt/TV_Goi_s.jpg" , TV Goiás
+http://painelvj.com.br:1935/tvgoias/tvgoias.sdp/playlist.m3u8
+
+#EXTINF:-1 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s12.postimg.org/81pdogngt/TV_Est_dio_Brasil.png" , TV Estúdio Brasil
+http://stmv2.srvstm.com/tvestudiobrasil/tvestudiobrasil/playlist.m3u8
+
+#EXTINF:-1 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s16.postimg.org/jsqtwxkj9/TV_CN_Agitos.jpg" , TV CN Agitos
+http://wsemedia.com:1935/cn01/cn01/playlist.m3u8
+
+#EXTINF:0 type="favorites" tvg-group="TV Aberta" tvg-logo="http://s20.postimg.org/tqynqozot/Rede_Minas.png" , Rede Minas
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:0 type="favorites" channelId="2459" tvg-group="CANAIS BRASILEIROS" tvg-logo="http://s20.postimg.org/lw2q8s33h/TV_Di_rio.png" , TV Diário
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/dQv2mX8DSK/a6964W8xUin8LJs8.png" group-title="CANAIS BRASILEIROS",TV Transamérica
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u8
+
+#EXTINF:0 group-title="CANAIS BRASILEIROS", CANAL SAUDE
+http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redevida.gif" group-title="RELIGIOSO",Rede Vida
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
+
+
+
+
+
+###################################### MUSICAS ########################################
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Virgin.svg/150px-Virgin.svg.png" group-title="MUSICA" , VIRGIN TV
+http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Multishow SD" tvg-logo="http://s32.postimg.org/7wouj3pht/multishow.png" group-title="VARIEDADE",Multishow
+http://95.141.32.213:8081/look/eimax/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/55679u6x9/hotmusic.jpg" group-title="MUSICAS",MIX TV
+http://stmv1.euroti.com.br:1935/mixtv/mixtv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/55679u6x9/hotmusic.jpg" group-title="MUSICAS",HOT MUSIC 
+http://wow01.105.net/live/rmc1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Virgin.svg/150px-Virgin.svg.png" group-title="MUSICAS", VIRGIN TV
+http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8?AndreOid
+
+#EXTINF:0 type="favorites" tvg-logo="https://lut.im/8GWlkoeV6n/8Z03YH2qrOdt78d4.png" , TV CLIPES
+http://stmv1.euroti.com.br:1935/stmdemo/stmdemo/live.m3u8
+
+
+####################################### EDUCACÃO ###########################################
+
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="CANAL ABERTO",Futura - TVUSC
+http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/ywPwtyRjKD/3gCocou245KVB3nH.png" group-title="CANAL Educacão",TV ESCOLA HD 
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+
+
+
+
+####################################### REGIONAIS ###########################################
+
+
+#EXTINF:-1 group-title="Variedades",Conexao BR 
+http://189.86.89.116:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 group-title="Variedades",Creative TV 
+http://streaming63.sitehosting.com.br:1935/jandy/jandy/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",Dourados Web TV 
+http://srv3.zoeweb.tv:1935/zw320/stream/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",DTTV HD
+http://streaming63.sitehosting.com.br:1935/tvneponu/tvneponu/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",FM O Dia 
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+
+#EXTINF:-1 group-title="Variedades",Game Show Studio HD 
+http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades",GV News 
+http://173.236.10.10:1935/gvnews/gvnews/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",Jaqueira TV 
+http://45.43.208.2:1935/jaqueiratv/jaqueiratv/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",Lagoa TV 
+http://158.69.26.98:1935/lagoatv/lagoatv/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",Milk TV 
+http://45.43.208.98:1935/jtvmilk/jtvmilk/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",RCTV 
+http://158.69.26.98:1935/rctv/rctv/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",Rede New
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+
+#EXTINF:-1 group-title="Variedades",Super Radio Tupi 
+http://cdn.rj.assocrj.com.br:80/live//tupi-estudio-video06/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades",TV Rio Preto
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",Silence TV 
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades",TCM 10 
+http://cw.tcm10.com.br:80/low/canal10.m3u8
+
+#EXTINF:-1 group-title="Variedades",TV A Plateia 
+http://srv-rs1.sisdera.com:1935/tvap/tvap.smil/chunklist_b1400000.m3u8
+
+#EXTINF:-1 group-title="Variedades",TV Cidade Pelotas 
+http://streaming2.inforede.inf.br:1935/c1076ev2932/aovivo/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades",TV CN Agitos 
+http://wsemedia.com:1935/cn01/cn01/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",TV das Artes 
+http://172.93.110.130:1935/tvdasartes/tvdasartes/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",TV Estudio Brasil
+http://45.43.208.2:1935/tvestudiobrasil/tvestudiobrasil/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",TV Mais Marica 
+http://stmv4.euroti.com.br:1935/tvmaismarica/tvmaismarica/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",TV Mais Natal 
+http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8
+
+#EXTINF:-1 group-title="Filmes e Series",TV Marajoara 
+http://video01.tvdigitalhd.org/arian94818/arian94818/chunklist_w499517906.m3u8
+
+#EXTINF:-1 group-title="Variedades",TV News 
+http://45.43.208.98:1935/tvnews/tvnews/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",TV Penaforte 
+http://172.93.110.130:1935/tvpenaforte/tvpenaforte/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",TV Portal Midia 
+http://painel.tvdigitalhd.org:1935/tvportalmidia/tvportalmidia/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",TV Povo Cigano 
+http://streaming30.sitehosting.com.br:1935/cigano/cigano/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",TV Produto 
+http://wse7.player.tv.br:1935/canalreporter/canalreporter/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",TV Sol
+http://172.93.110.130:1935/tvsol/tvsol/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",TV Trans SP 
+http://tvtranssaopaulo.audiostreaming.com.br:1935/live/tvsp/livestream.m3u8
+
+#EXTINF:-1 group-title="Variedades",TV Transamerica 
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades",TV Zoom 10 
+http://streaming60.sitehosting.com.br:1935/zoom/zoom/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",TVC 16 
+http://94.23.19.111:1935/insidesolucoes/insidesolucoes/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",TVN Brasil 
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",TWiT.TV 
+http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades",Via Midia TV 
+http://cdn2.comets.com.br:1935/viamidia/aovivo/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",Via Morena 
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades",Viva 
+http://95.141.32.213:8081/look/viva/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades",Viva na TV 
+http://wz6.dnip.com.br/vivanatv/vivanatv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades",Web TV Jorge Guedes 
+http://wsemedia.com:1935/cn02/cn02/live.m3u8
+
+#EXTINF:-1 group-title="Variedades",World Fashion 
+http://83.222.205.10/TVB8/wfhdeu/track_0_3000/playlist.m3u8
+
+
+
+######################################### ESPORTES ############################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports HD" tvg-logo="" group-title="Esportes",Band Sports HD
+http://serverci.dyndns.tv:25461/live/ramonjulio/2222/26.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png" group-title="ESPORTES",SPORTV HD
+http://dragoniptv99.dyndns.tv:8505/live/francis/francis/717.ts ?
+
+#EXTINF:-1 tvg-id="SPORTV SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png" group-title="ESPORTES",SPORTV SD
+http://dragoniptv99.dyndns.tv:8505/live/francis/francis/602.ts ? 
+
+#EXTINF:-1 tvg-id="SPORTV 2 HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png" group-title="ESPORTES",SPORTV 2 HD
+http://dragoniptv99.dyndns.tv:8505/live/francis/francis/719.ts ? 
+
+#EXTINF:-1 tvg-id="SPORTV 2 SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png" group-title="ESPORTES",SPORTV 2 SD
+http://dragoniptv99.dyndns.tv:8505/live/francis/francis/601.ts ? 
+
+#EXTINF:-1 group-title="Internacional" ,Italian: PREMIUM SPORTS 2 HD
+http://portal.geniptv.com:8080/live/JELj3YBXB4/91pzzdxns2/312.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/qFDwLNv.png" group-title="Esportes Internacional",Eurosport
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/qFDwLNv.png" group-title="Esportes Internacional",Eurosport 2
+http://hls.fearfulale.xyz/s/my012635/22a3687fa0f4048a2d8a671d5122b15c.m3u8?
+
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="http://i.imgur.com/X0rwGWK.png" group-title="Esportes Internacional",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 group-title="Internacional" ,English: BT SPORT 1 HD
+http://portal.geniptv.com:8080/live/JELj3YBXB4/91pzzdxns2/370.ts
+
+#EXTINF:-1 group-title="Internacional" ,English: BT SPORT 2 HD
+http://portal.geniptv.com:8080/live/JELj3YBXB4/91pzzdxns2/368.ts
+
+#EXTINF:-1 group-title="Internacional" ,English: BT SPORT 3 FHD
+http://portal.geniptv.com:8080/live/JELj3YBXB4/91pzzdxns2/366.ts
+
+#EXTINF:-1 group-title="Internacional" ,English: BENFICA TV HD
+http://144.217.76.96:8003/live/armindo/armindo/885.ts
+
+#EXTINF:-1 group-title="Internacional" ,French: BEIN SPORT 2 HD FR
+http://skyperlive.xyz/player2/bein2fr.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",PREMIERE CLUBES HD
+http://dragoniptv99.dyndns.tv:8505/live/francis/francis/728.ts ?  PREMIERE CLUBES HD
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",PREMIERE CLUBES SD
+http://dragoniptv99.dyndns.tv:8505/live/francis/francis/617.ts ? PREMIERE CLUBES SD
+
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 2 HD
+http://dragoniptv99.dyndns.tv:8505/live/francis/francis/727.ts ?  PREMIERE 2 HD
+#EXTINF:-1 tvg-id="PREMIERE 2 SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 2 SD
+http://dragoniptv99.dyndns.tv:8505/live/francis/francis/625.ts ?  PREMIERE 2 SD
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO CANAL 
+http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
+
+
+#EXTINF:-1 group-title="Esportes",Al Kass Sports 
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 group-title="Esportes",Al Kass Sports 2 
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 group-title="Esportes",Al Kass Sports 3 
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 group-title="Esportes",Al Kass Sports 4 
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 group-title="Esportes",Al Kass Sports 5 
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+
+#EXTINF:-1 group-title="Esportes",All Sports 
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8
+
+#EXTINF:-1 group-title="Esportes",Automoto
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Esportes",Barca TV 
+http://cdns724ste1010.shooowit.net/25televisiolive/amlst:25tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Esportes",Bayern-Munchen TV 
+http://klive-a.akamaihd.net/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs4H8Mzuv07XU5Zdqb4sw/index-s40.m3u8
+
+#EXTINF:-1 group-title="Esportes",Betis FC TV 
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 group-title="Esportes",Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="https://s32.postimg.org/7yy5aszit/combate2.png" group-title="Esportes",Combate HD
+http://dragoniptv99.dyndns.tv:8505/live/francis/francis/763.ts ? GeraldoFilho COMBATE HD
+
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-name="Combate" tvg-logo="https://s32.postimg.org/7yy5aszit/combate2.png" group-title="Esportes",Combate
+http://dragoniptv99.dyndns.tv:8505/live/francis/francis/685.ts ? GeraldoFilho COMBATE SD
+
+#EXTINF:-1 group-title="Esportes",DXTV 
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1744908434_b800000_slesp.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo HD" tvg-logo="" group-title="Esportes",Esporte Interativo HD
+http://mdstrm1-a.akamaihd.net:80/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?es=mdstrm1-a.akamaihd.net&proto=http
+#EXTINF:-1 tvg-id="" tvg-name="Ei Maxx" tvg-logo="http://s18.postimg.org/ymzvzw2xh/eiplus2.png" group-title="Esportes",Ei
+http://mdstrm1-a.akamaihd.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=mdstrm1-a.akamaihd.net&proto=http
+
+#EXTINF:-1 group-title="Esportes",NBA TV 
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+
+
+###################################### FILMES E SERIES ###################################################
+
+
+#EXTINF:-1 group-title="Filmes e Series",FOX 
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/chunklist.m3u8 ?
+
+#EXTINF:-1 tvg-id="Max Prime [Brazil]" tvg-logo="http://s9.postimg.org/l51ctd8mz/maxprime.png" group-title="Filmes e Séries",Max Prime
+http://hls.fearfulale.xyz/s/ch0011986/22a3687fa0f4048a2d8a671d5122b15c.m3u8
+
+#EXTINF:-1 group-title="" pltv-subgroup="Filmes e Séries",Cine Sky
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://diamundialpoesia.files.wordpress.com/2011/03/el33_logo2001.png" group-title="Filmes e Séries", A3 LATINO
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on?AndreOid
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4f/Vh1_classic_europe.png"group-title="Filmes e Séries",CLASSIQUE TV
+http://45.43.208.2:1935/classique/classique/live.m3u8
+
+#EXTINF:-1 group-title="Filmes e Series",Central TV 
+http://wse01.logicahost.com.br:1935/rbt1/rbt1/playlist.m3u8
+
+#EXTINF:-1 group-title="Filmes e Series",Cine+ 
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 group-title="Filmes e Series",Rede Brasil SP 
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8 ?
+
+#EXTINF:-1 group-title="Filmes e Series",Destak 
+http://172.93.110.130:1935/pascoal/pascoal/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",TV NA ILHA
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+
+#EXTINF:-1 group-title="Filmes e Series",Rede Metropole 
+http://201.31.2.11:4918/live/tvmetropole.stream/livestream.m3u8
+
+
+########################################### MEXICO ###############################################
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Nova_logo_2011.jpg"group-title="Variedades" , MEX - Nova 
+http://a3live-lh.akamaihd.net:80/i/nova/geonova_1@379404/index_3_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/119710/logo_toplatino_300x300.jpg"group-title="Variedades" , MEX - Top Latino 
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh5.ggpht.com/hNBaud2etEYMm-MAO5v9IFYgN06ycP9-gymsFREfIeMyfrp-xEqrGdZMmDyU36kRgc5l=w300"group-title="Variedades" , MEX TV Max 
+http://50.7.98.234:1935/rtv/videortv/chunklist_w1278592260.m3u8
+
+#EXTINF:-1 tvg-logo="http://elchoyerotv.org/wp-content/uploads/2016/07/willaxTv-logo-346x333.jpg"group-title="Variedades" , PER - Willax TV 
+http://m.mediastream.pe/vv_willax/livestream/.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/41Bdy18PRuL.png"group-title="Variedades" , R.U. - Capital TV HD
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+
+
+######################################### DOCUMENTARIOS ###################################
+
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/animal.png" group-title="EUA",Animal Planet L!VE HD
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/rt.png" group-title="RUSSIA",RT  Documentary Channel
+http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",SAL
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%201%20-%20Sal%20.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",OURO
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%202%20-%20Ouro.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",CAVALO
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%203%20-%20Cavalo%20.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",ABAIXO DE ZERO
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%204%20-%20Abaixo%20De%20Zero.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",MEGAESTRUTURAS
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%205%20-%20Megaestruturas.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",O MUNDO DAS ARMAS
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%206%20-%20O%20Mundo%20Das%20Armas.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",A ASCENSÃO DOS CARNIVOROS
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%207%20-%20A%20Ascens%c3%a3o%20dos%20Carn%c3%advoros.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",MONTANHAS
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%208%20-%20Montanhas.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",ESTIMULO CEREBRAL
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%209%20-%20Est%c3%admulo%20Cerebral.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",DESAFIANDO A GRAVIDADE
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2010%20-%20Desafiando%20A%20Gravidade.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",MAQUINA DO TEMPO PORTATIL
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2011%20-%20M%c3%a1quina%20do%20Tempo%20Port%c3%a1til.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",METEOROS MORTAIS
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2012%20-%20Meteoros%20Mortais.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",DECODIFICANDO
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2013%20-%20Decodificado.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",SUPERNOVA DE PRATA
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2014%20-%20Supernova%20de%20Prata.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",O SOL
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2015%20-%20O%20Sol.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",H2O
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2016%20-%20H2O.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",FINAL
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2017%20-%20Final.mp4
+
+
+############################################ INTERNACIONAIS ########################
+
+
+###### ALEMANHA ######
+
+
+#EXTINF:-1 group-title="Internacionais",1-2-3 TV [Alemanha] 
+http://123tv.cdn.ses-ps.com/index.m3u8
+
+#EXTINF:-1 group-title="Internacionais",ALEX Berlin [Alemanha] 
+http://alex-stream.rosebud-media.de:80/live/smil:alexlivetv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Baden TV [Alemanha] 
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Deutsche Welle [Alemanha] 
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Elbekanal [Alemanha] 
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
+
+#EXTINF:-1 group-title="Internacionais",EOTV [Alemanha] 
+http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Telebasel [Alemanha] 
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+
+#EXTINF:-1 group-title="Internacionais",TV Oberfranken [Alemanha] 
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Welt der Wunder [Alemanha] 
+http://live.vidoo.de/live/weltderwunder/f1tv.m3u8
+
+
+###### CHINA ######
+
+
+#EXTINF:-1 group-title="Internacionais",China 8 [China] 
+http://ec.sinovision.net/video/ts/lv.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Shandong TV [China] 
+http://eshare.live.otvcloud.com/otv/nyz/live/channel26/700.m3u8
+
+
+###### EMIRADOS ARABES ######
+
+
+#EXTINF:-1 group-title="Internacionais",Al Hurra [Emirados Arabes] 
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Al Jazeera [Emirados Arabes] 
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 group-title="Internacionais",BBC [Emirados Arabes] 
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+
+
+###### ESPANHA ######
+
+
+#EXTINF:-1 group-title="Internacionais",Antena 3 [Espanha] 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Aragon [Espanha] 
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Canal Extremadura [Espanha] 
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Condavision [Espanha] 
+http://cls2.todostreaming.eu/azahara/uSCQc5ky/chunklist.m3u8
+
+#EXTINF:-1 group-title="Internacionais",ETB Sat [Espanha] 
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
+
+#EXTINF:-1 group-title="Internacionais",La Sexta [Espanha] 
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Mega [Espanha] 
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+
+#EXTINF:-1 group-title="Internacionais",TV3 [Espanha] 
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+
+
+###### ESTADOS UNIDOS ######
+
+
+#EXTINF:-1 group-title="Internacionais",ABC News [Estados Unidos] 
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Bloomberg TV [Estados Unidos] 
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
+#EXTINF:-1 group-title="Internacionais",C-SPAN [Estados Unidos] 
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+
+#EXTINF:-1 group-title="Internacionais",C-SPAN 2 [Estados Unidos] 
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+
+#EXTINF:-1 group-title="Internacionais",C-SPAN 3 [Estados Unidos] 
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Earth TV [Estados Unidos] 
+http://cdn.liveonearth.com//cdnedge//smil:TWL-en.smil//playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais",CBS News [Estados Unidos] 
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Weather Channel [Estados Unidos] 
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+ 
+#EXTINF:-1 group-title="Internacionais",Weather Nation [Estados Unidos] 
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+
+
+###### FRANCA ######
+
+
+#EXTINF:-1 group-title="Internacionais",BFM TV [Franca] 
+http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
+
+#EXTINF:-1 group-title="Internacionais",France 24 [Franca] 
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 group-title="Internacionais",La Chaine Normande [Franca] 
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais",TV5 Monde [Franca] 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+
+
+###### GRECIA ######
+
+
+#EXTINF:-1 group-title="Internacionais",Aigaio TV [Grecia] 
+http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Kontra TV [Grecia] 
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Skai TV [Grecia] 
+http://iphone.skai.gr.edgesuite.net/iphone_iphone.m3u8
+
+
+###### INDIA ######
+
+
+#EXTINF:-1 group-title="Internacionais",Abp News [India] 
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+
+#EXTINF:-1 group-title="Internacionais",CNBC [India] 
+http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_1_av-p.m3u8
+
+#EXTINF:-1 group-title="Internacionais",DD News [India] 
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Lok Sabha TV [India] 
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+
+
+###### ISRAEL ######
+
+
+#EXTINF:-1 group-title="Internacionais",Channel 20 [Israel] 
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Hidabroot TV [Israel] 
+https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Kan11 [Israel] 
+http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Knesset Channel [Israel] 
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8 
+
+
+###### ITALIA ######
+
+
+#EXTINF:-1 group-title="Internacionais",Canale 7 [Italia] 
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+
+#EXTINF:-1 group-title="Internacionais",History Lab [Italia] 
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Orler TV [Italia] 
+http://77.92.76.135:1935/orler/livestream/live.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Rai 5 [Italia] 
+http://stream12.rai.it/live/smil:rai5.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Rai News 24 [Italia] 
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Rai Premium [Italia] 
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Videolina [Italia] 
+http://178.33.229.111:1935/live/Videolina/livestream.m3u8
+
+
+###### JAPAO ######
+
+
+#EXTINF:-1 group-title="Internacionais",BS 12 TwellV [Japao] 
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs13.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais",BS Asahi [Japao] 
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs03.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais",BS Japan [Japao] 
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs06.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Fuji TV [Japao] 
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd05.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais",NHK General TV [Japao] 
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd01.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais",NHK World [Japao] 
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Nippon TV [Japao] 
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd03.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais",TV Tokyo [Japao] 
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd07.stream/playlist.m3u8
+
+
+###### PORTUGAL ######
+
+
+#EXTINF:-1 group-title="Internacionais",Porto Canal [Portugal] 
+http://213.13.26.11:1935/live/portocanal/playlist.m3u8?
+
+#EXTINF:-1 group-title="Internacionais",RTP 1 [Portugal] 
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+
+#EXTINF:-1 group-title="Internacionais",RTP 2 [Portugal] 
+http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
+
+#EXTINF:-1 group-title="Internacionais",RTP Acores [Portugal] 
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 group-title="Internacionais",RTP Africa [Portugal] 
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 group-title="Internacionais",RTP Madeira [Portugal] 
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 group-title="Internacionais",RTP Memoria [Portugal] 
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/KodiPortugal.pt.m3u8?CompartilhandoIPTV
+
+#EXTINF:-1 group-title="Internacionais",SIC TV [Portugal] 
+http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
+
+#EXTINF:-1 group-title="Internacionais",TVI [Portugal] 
+http://195.23.102.218:1935/live_tvi/LIVE_TVI-3/livestream.m3u8
+
+#EXTINF:-1 group-title="Internacionais",TVI 24 [Portugal] 
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8?
+
+
+###### REINO UNIDO ######
+
+
+#EXTINF:-1 group-title="Internacionais",Arise News [Reino Unido] 
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+
+#EXTINF:-1 group-title="Internacionais",BBC World News [Reino Unido] 480p
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+#EXTINF:-1 group-title="Internacionais",IdealWorld [Reino Unido] 
+http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais",London Live [Reino Unido] 
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Sky News [Reino Unido] 
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+
+###### RUSSIA ######
+
+
+#EXTINF:-1 group-title="Internacionais",24 Krim [Russia] 
+http://vid.techbee.pro:8080/crimea24/index.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Euronews [Russia] 
+http://evronovosti.mediacdn.ru/sr1/evronovosti/chunklist_b2658304.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Mir 24 [Russia] 
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Moya Planet [Russia] 
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/master.m3u8
+
+
+###### TURQUIA ######
+
+
+#EXTINF:-1 group-title="Internacionais",CNN Turk [Turquia] 
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Kanal 24 [Turquia] 
+http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Kanal D [Turquia] 
+http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+
+#EXTINF:-1 group-title="Internacionais",Meclis TV [Turquia] 
+http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
+
+
+
+
+
+
+######### RADIO ###########
+
+
+
+
+#EXTINF:-1 tvg-logo="http://mixfm.com.br/wp-content/themes/mix/assets/images/logo-facebook-share.png" group-title="Radios",Mix FM
+http://mixaac.crossradio.com.br:1100/live
+
+#EXTINF:-1 tvg-logo="https://www.imusicaradios.com.br/go_ccfm/img/logo_cc.png?176d163dce6f3a78" group-title="Radios", Coca Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-81hf1oPZSdU/VmmjQlHkRYI/AAAAAAAAANU/aqy6vdbMdnw/s1600/alvoradagm.png"group-title="Radio" radio=true, Alvorada FM*
+http://st3.stationbr.com:8000/alvoradafm64
+
+#EXTINF:-1 tvg-logo="http://diariodorio.com/wp-content/uploads/2016/01/Antena-1.jpg"group-title="Radio" radio=true, Antena 1 SP*
+http://antena1.newradio.it/stream?1479613766876.aac
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-2gPQItOtgVQ/VmmjSLcbEZI/AAAAAAAAAOU/tfAs7IurbRA/s1600/antena1.png"group-title="Radio" radio=true, Antenna 1 França*
+http://s3.mediastreaming.it:7568/;16232861525289stream.nsv
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/582170439696416768/y9-gliXn.jpg"group-title="Radio" radio=true , Antenne Mv*
+http://streams.antennemv.de/antennemv-live/mp3-192/amv
+
+#EXTINF:-1 tvg-logo="http://lh3.ggpht.com/n1PDg6D2bXMdh-K4BYvUyZIYBwjfXTuAqkrftPlXnBZv9tJYgY3fQoD1solJ8guwOqaf=w300"group-title="Radio" radio=true, Araras FM 107.7*
+http://radio1.suaradionanet.net:10841/stream?type=.flv
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-bRXHOagXRpI/VmmjUbuTMPI/AAAAAAAAAPo/Pe9PSp63LV4/s1600/atlantica.png"group-title="Radio" radio=true , Atlântica Fm*
+rtsp://wz3.dnip.com.br/sc_atla/sc_atla.stream
+
+#EXTINF:-1 tvg-logo="http://img.radios.com.br/radio/lg/radio10410_1439401379.jpg"group-title="Radio" radio=true , Band AM-FM SP*
+rtmp://evp.mm.uol.com.br/radioam_sp/radioam_sp
+
+#EXTINF:-1 tvg-logo="http://img.radios.com.br/radio/lg/radio10358_1439401379.jpg"group-title="Radio" radio=true , Band FM SP*
+rtmp://evp.mm.uol.com.br/bandfm_sp/_definst_/bandfm_sp
+
+#EXTINF:-1 tvg-logo="http://img.radios.com.br/radio/lg/radio24477_1439401614.jpg"group-title="Radio" radio=true , Band News SP* 
+rtmp://evp.mm.uol.com.br/bnewsfm_sp/_definst_//bnewsfm_sp
+
+#EXTINF:-1 tvg-logo="http://img.radios.com.br/radio/lg/radio8813_1439401341.jpg"group-title="Radio" radio=true, BH FM 102*
+rtmp://media.sgr.globo.com/MusicalRD/bhfm.sdp
+
+#EXTINF:-1 tvg-logo="http://img.radios.com.br/radio/lg/radio8816_1439401341.jpg"group-title="Radio" radio=true , CBN SP 90.5*
+rtmp://media.sgr.globo.com/CBNRD//cbnsp.sdp
+
+#EXTINF:-1 tvg-logo="https://www.imusicaradios.com.br/go_ccfm/img/logo_cc.png?176d163dce6f3a78"group-title="Radio" radio=true, Coca Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+
+#EXTINF:-1 tvg-logo="http://img.radios.com.br/radio/lg/radio12826_1439401446.jpg"group-title="Radio" radio=true, Disney 91.3 FM*
+http://disneyradiohds-lh.akamaihd.net/i/LTM_Radio_Disney_HDS_1@92327/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_ee1c41831c42197a6fa49f7bb7ce8946/logo200.jpg"group-title="Radio" radio=true , Dubstep FM*
+http://192.99.150.31:9083/stream
+
+#EXTINF:-1 tvg-logo="http://www2.97fm.com.br/imagens/layout/logo.png"group-title="Radio" radio=true, Energia 97 Fm*
+http://aac.97fm.com.br/energia?type=.flv
+
+#EXTINF:-1 tvg-logo="http://img.radios.com.br/radio/lg/radio4240_1439401055.jpg"group-title="Radio" radio=true, Globo SP AM 1100*
+rtmp://media.sgr.globo.com/RadioGloboRD//gamsp.sdp
+
+#EXTINF:-1 tvg-logo="http://www.gospel.fm.br/img/radio-1.png"group-title="Radio" radio=true, Gospel FM 90.7 Araras
+http://209.126.127.123:8607/live
+
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2q2mg54.jpg"group-title="Radio" radio=true, Gospel FM 89
+http://ice1.crossradio.com.br:8050/live.mp3
+
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2pzmpfr.jpg"group-title="Radio" radio=true, Hunter FM*
+http://streaming.shoutcast.com/RadioHunter-TheHitzChannel
+
+#EXTINF:-1 tvg-logo="http://i1094.photobucket.com/albums/i447/Celso_Moraes/jovem_zps492738a1.jpg"group-title="Radio" radio=true, Joven Pan SP 100.9*
+rtmp://evp.mm.uol.com.br/jovempanfm/jovempanfm.sdp
+
+#EXTINF:-1 tvg-logo="http://img.radios.com.br/radio/lg/radio13561_1439401453.jpg"group-title="Radio" radio=true, Kiss FM 102.1*
+rtmp://11254q.lp.azioncdn.net/1254q/_definst_/kissfm2.sdp
+
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2nasd3o.jpg"group-title="Radio" radio=true, Mega FM*
+rtmp://hdpanel.oficialserver.com:1935/7075_aac playpath=default.stream swfUrl=http://www.mega95fm.com.br/site/player/mega95fm.swf live=1 pageUrl=http://www.mega95fm.com.br/site/player.php
+
+#EXTINF:-1 tvg-logo="http://radioenegocios.com.br/wp-content/uploads/2014/04/mixfmsaopaulo_24022014-400x230.png"group-title="Radio" radio=true , Mix 106.3 SP
+http://mixmp3.crossradio.com.br:1102/live
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2yo27vq.jpg"group-title="Radio" radio=true, Nativa FM*
+rtmp://wz1.dnip.com.br/nativafm32k/ playpath=nativafm32k.stream swfUrl=http://www.nativa87fm.com.br/play.swf live=1 pageUrl=http://www.nativa87fm.com.br/play.html
+
+#EXTINF:-1 tvg-logo="http://img.radios.com.br/radio/lg/radio14040_1439401457.jpg"group-title="Radio" radio=true , Nativa SP*
+rtmp://evp.mm.uol.com.br/nativa_sp/_definst_/nativa_sp
+
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/35colu0.jpg"group-title="Radio" radio=true, New Life FM 87.5 (Video)*
+rtmp://tv01.hstbr.net:1935/newlifefm/newlifefm 
+
+#EXTINF:-1 tvg-logo=""group-title="Radio" radio=true , Portugal 94 FM
+http://195.8.58.150:35022
+
+#EXTINF:-1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png"group-title="Radio" radio=true , Portugal Antena 1
+http://streaming-live.rtp.pt/liveradio/antena180a/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
+
+#EXTINF:-1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena2.png"group-title="Radio" radio=true, Portugal Antena 2
+http://streaming-live.rtp.pt/liveradio/antena280a/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
+
+#EXTINF:-1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena3.png"group-title="Radio" radio=true, Portugal Antena 3
+http://streaming-live.rtp.pt/liveradio/antena380a/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
+
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/3e8d6f7c528de37d226685bea03997fc.jpg"group-title="Radio" radio=true, Portugal Radio Amalia 92 FM - Fados
+http://centova.radios.pt:9496/stream?1486052891699.mp3
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yywvqp1466187070.png/medium"group-title="Radio" radio=true , Portugal Radio Cidade
+rtmp://mcrwowza3.mcr.iol.pt/cidadefmlc playpath=cidadefmlc.sdp swfUrl=http://cidade.iol.pt/player/player.swf?v=1.3 pageUrl=kodiportugal.pt
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/txtrqy1435096777.png/medium"group-title="Radio" radio=true , Portugal Radio Comercial
+rtmp://mcrwowza4.mcr.iol.pt/comerciallc playpath=comerciallc.sdp swfUrl=http://radiocomercial.iol.pt/player/scripts/player.swf?v=1.1 pageUrl=http://kodiportugal.pt
+
+#EXTINF:-1 tvg-logo=""group-title="Radio" radio=true, Portugal Radio Love Songs
+http://streaming.radioregional.pt:8058
+
+#EXTINF:-1 tvg-logo=""group-title="Radio" radio=true, Portugal Radio FM80
+http://19573.live.streamtheworld.com/GR80SRFM_SC
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxvxus1435075964.png/medium"group-title="Radio" radio=true , Portugal Radio M80
+rtmp://195.23.102.193/m80lc playpath=m80lc.sdp swfUrl= pageUrl=http://kodiportugal.pt
+
+#EXTINF:-1 tvg-logo=""group-title="Radio" radio=true, Portugal Radio Mega Hits
+http://19553.live.streamtheworld.com/MEGA_HITS_SC
+
+#EXTINF:-1 tvg-logo="http://www.radiot.fi/img/channel-logos/radio-nostalgia.png?content-checksum=4900b28eb84dcabd12326e6d761fc98eacf1d376"group-title="Radio" radio=true , Portugal Radio Nostalgia
+http://centova.radios.pt:8435
+
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s83943q.png"group-title="Radio" radio=true , Portugal Radio Oxigênio
+http://centova.radios.pt:9498
+
+#EXTINF:-1 tvg-logo=""group-title="Radio" radio=true , Portugal Radio Renascença
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tuqsqu1435098558.png/medium"group-title="Radio" radio=true, Portugal Radio Smooth FM
+rtmp://mcrwowza3.mcr.iol.pt/smoothlc playpath=smoothlc.sdp swfUrl=http://smoothfm.iol.pt/player/player.swf?v=1.5 pageUrl=http://kodiportugal.pt
+
+#EXTINF:-1 tvg-logo="http://images.viaway.com/111702_180.png"group-title="Radio" radio=true, Portugal Radio Ultra FM*
+http://centova.radios.pt:9506/;
+
+#EXTINF:-1 tvg-logo=""group-title="Radio" radio=true , Portugal Radio Top 80
+http://live.top80.fm:8086/
+
+#EXTINF:-1 tvg-logo=""group-title="Radio" radio=true, Portugal Radio TSF
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/2mngimg.jpg"group-title="Radio" radio=true, Radio Aleluia - Sp*
+rtmp://flash7.crossdigital.com.br/aleluia/radioaleluia.stream
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://goo.gl/4YBvxY" group-title="INFORMAÇÕES: CLIQUE AQUI!", LISTA DO RODRIGOU
+http://0.0.0.0
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-85t5_lKbgAM/UrI2mxMpjaI/AAAAAAAAGo4/_NN0FF8Dh4E/s320/pedido.png" group-title="INFORMAÇÕES: CLIQUE AQUI!", PEDIDOS DE FILMES E SERIES PEÇA NA PÁGINA!
+http://0.0.0.0
+#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="INFORMAÇÕES: CLIQUE AQUI!", bit.ly/RODRIGOUPAGINA
+http://0.0.0.0
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/cash-payment_23-2147511454.jpg" group-title="FAÇA UMA DOAÇÃO! PARA CONTINUAR COM ESSE TRABALHO", FAÇA UMA DOAÇÃO! PARA CONTINUAR COM ESSE TRABALHO
+http://0.0.0.0
+#EXTINF:-1 tvg-logo="https://www.listaiptvvip.com/wp-content/uploads/2017/11/lista-iptv-vip.png" group-title="MELHOR LISTA DE CANAIS", QUER UM LISTA DE CANAIS COMPLETA ? SO ENTRAR EM CONTATO COM WWW.LISTAIPTVVIP.COM OU NO WHATS
+http://0.0.0.0
+#EXTINF:-1 tvg-logo="https://www.listaiptvvip.com/wp-content/uploads/2017/11/lista-iptv-vip.png" group-title="MELHOR LISTA DE CANAIS", WHATS (19) 998509928
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VIKINGS
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T1|EP1
+http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/VKGST01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T1|EP2
+http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/VKGST01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T1|EP3
+http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/VKGST01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T1|EP4
+http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/VKGST01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T1|EP5
+http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/VKGST01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T1|EP6
+http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/VKGST01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T1|EP7
+http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/VKGST01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T1|EP8
+http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/VKGST01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T1|EP9
+http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/VKGST01EP09.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T2|EP1
+https://www.blogger.com/video-play.mp4?contentId=280d7434a3fc31b6
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T2|EP2
+https://www.blogger.com/video-play.mp4?contentId=af00888d87f851ad
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T2|EP3
+https://www.blogger.com/video-play.mp4?contentId=36b394bc24ae9062
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T2|EP4
+https://www.blogger.com/video-play.mp4?contentId=92a2a216cd9c0938
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T2|EP5
+https://www.blogger.com/video-play.mp4?contentId=c801f3caa6736f6f
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T2|EP6
+https://www.blogger.com/video-play.mp4?contentId=447e6a3fef1374f6
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T2|EP7
+https://www.blogger.com/video-play.mp4?contentId=905ab01cf980093
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T2|EP8
+https://www.blogger.com/video-play.mp4?contentId=d1025b96e730fc64
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T2|EP9
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST02EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T2|EP10
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST02EP10.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T3|EP1
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST03EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T3|EP2
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST03EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T3|EP3
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST03EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T3|EP4
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST03EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T3|EP5
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST03EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T3|EP6
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST03EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T3|EP7
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST03EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T3|EP8
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST03EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T3|EP9
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST03EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T3|EP10
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/VKGST03EP10.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP1
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGST04EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP2
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGST04EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP3
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGST04EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGST04EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP5
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGST04EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP6
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGST04EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP7
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGST04EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP8
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGST04EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP9
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGST04EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP10
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGST04EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP11
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGST04EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP12
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGST04EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP13
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGST04EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP14
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGST04EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP15
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGST04EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP16
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGST04EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP17
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGST04EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP18
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGST04EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP19
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGST04EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP20
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGST04EP20.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP1 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP2 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP3 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP4 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP5 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP6 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP7 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP8 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP9 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP10 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/VKGSS04EP10.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP11 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGSS04EP11.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP12 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGSS04EP12.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP13 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGSS04EP13.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP14 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGSS04EP14.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP15 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGSS04EP15.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP16 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGSS04EP16.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP17 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGSS04EP17.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP18 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGSS04EP18.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP19 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGSS04EP19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T4|EP20 (LEG)
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/VKGSS04EP20.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP1-2
+http://ic-b3624a00-01a82f-5bjdobr.s.loris.llnwd.net.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/VKGST05EP01-02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP3
+http://ic-b3624a00-01a82f-5bjdobr.s.loris.llnwd.net.ec.cx/RedeCanais/RedeCanais/RCServer13/ondemand/VKGST05EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP4
+http://s.vstreaming.net/tvshows/vikings/s05e04-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP5
+http://s.vstreaming.net/tvshows/vikings/s05e05-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP6
+http://cloud.popfilmeshd.net/SERIES/DUBLADO/VIKINGS/VIKINGS06DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP7
+http://cloud.popfilmeshd.net/popfilmes/SERIES/DUBLADO/VIKINGS/VIKINGS07DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP8
+http://cloud.popfilmeshd.net/popfilmes//SERIES/DUBLADO/VIKINGS/VIKINGS08DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP1-2 (LEG)
+http://zeus.netcine.tv/httpdelivery/vkgs/05leg/01e02-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP3 (LEG)
+http://zeus.netcine.tv/httpdelivery/vkgs/05leg/03-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP4 (LEG)
+http://zeus.netcine.tv/httpdelivery/vkgs/05leg/04-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP5 (LEG)
+http://zeus.netcine.tv/httpdelivery/vkgs/05leg/05-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/b7y91Z" group-title="VIKINGS", VKS T5|EP6 (LEG)
+http://origin.ntcdn.us/content/httpdelivery/vkgs/05leg/06-ALTO.mp4
