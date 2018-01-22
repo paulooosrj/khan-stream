@@ -22,20 +22,28 @@
   <div khan-controller="filmes" style="display:none" class="d-flex align-items-center container-flex flex-column">
       <input type="text" placeholder="Troque a lista iptv ( Cole o link e de Enter )" onKeyup="{{ '$changeIptv(event)' }}" class="nova-iptv">
       <div class="d-flex align-items-center container-flex">
-          {{ $filmes.map(f => $makeCard(f)).join(' ') }}
+          {{ $filmes$.map(f => $makeCard$(f)).join(' ') }}
       </div>
   </div>
 
   <script src="javascripts/stream-json.js"></script>
-  <script src="https://cdn.rawgit.com/PaulaoDev/khan-framework/master/vendor/build/khan.min.js"></script>
+  <script src="https://rawgit.com/PaulaoDev/khan-framework/master/vendor/build/khan.min.js"></script>
   <script>
     (async () => {
       
-      const khan = new $khan();
+      const khan = new Khan();
+      var mark = 1;
 
-      const get_filmes = async (lista) => {
+      const load = () => {
         document.querySelector('[khan-controller="filmes"]').setAttribute('style', 'display:flex');
         document.querySelector('.load').setAttribute('style', 'display:none');
+      };
+
+      const get_filmes = async (lista) => {
+        if(mark === 2){
+          setTimeout(load, 3000);
+        }
+        mark++;
         return await StreamJson(lista);
       };
 
@@ -45,7 +53,7 @@
       };
 
 
-      khan.$controller('filmes', async function(){
+      khan.controller('filmes', async function(){
 
         this.iptv_lista = localStorage.getItem('iptv') || 'sources/lista-iptv.txt'; 
         this.filmes = await get_filmes(this.iptv_lista);
