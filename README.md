@@ -2,6 +2,9 @@
 
 
 --------------
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/PaulaoDev/khan-stream.svg)](https://greenkeeper.io/)
+
 # khan-stream
 --------------
 
